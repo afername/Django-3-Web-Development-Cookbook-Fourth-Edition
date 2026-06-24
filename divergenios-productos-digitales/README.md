@@ -62,6 +62,17 @@ Contiene:
 | `KIT-DE-VENTA-Y-LANZAMIENTO.md` | Título, descripción, copy de landing, precios, bundles, canales y plan de lanzamiento. |
 | `CHECKLIST-MAQUETACION.md` | Pasos para convertir el contenido en un PDF profesional y vendible. |
 
+### 📦 `02-retos-de-ingenieria/`
+
+**"Retos de Ingeniería Divergente"** — 16 desafíos de construcción con
+materiales de casa (6-11 años), centrados en el **ciclo de diseño** (imagina →
+construye → prueba → mejora). Pensado para **vender en bundle con el #1**.
+
+| Archivo | Qué es |
+|---------|--------|
+| `PRODUCTO.md` | 16 retos medibles, cuaderno de ingeniería y diploma. |
+| `KIT-DE-VENTA.md` | Copy, precios y estrategia de bundle/upsell. |
+
 ---
 
 ## 4. Catálogo recomendado (siguientes productos)
@@ -72,7 +83,7 @@ esta entrega.
 | # | Producto | Formato | Comprador | Precio sug. | Esfuerzo |
 |---|----------|---------|-----------|-------------|----------|
 | 1 | **Laboratorio Divergente en Casa** (20 experimentos) | Printable PDF | Familia + Docente | 12-15 € | ✅ Hecho |
-| 2 | Retos de Ingeniería: construye con lo que tienes | Printable PDF | Familia + Docente | 9-12 € | Bajo |
+| 2 | **Retos de Ingeniería Divergente** (16 retos) | Printable PDF | Familia + Docente | 10-12 € | ✅ Hecho |
 | 3 | Calendario de Adviento STEAM (24 retos) | Printable PDF (estacional) | Familia | 9 € | Bajo |
 | 4 | Pack Aula: el mismo lab + rúbricas + diplomas + póster | Printable PDF (licencia centro) | Docente/Colegio | 39-59 € | Bajo |
 | 5 | "Tu primer robot" — robótica y programación sin pantallas | Mini-curso vídeo + PDF | Familia | 49-69 € | Medio-alto |
