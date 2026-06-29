@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tienda · divergenios — STEAM para mentes curiosas</title>
+<meta name="description" content="Productos digitales STEAM para niños de 6 a 11 años: experimentos, retos de ingeniería, calendario de adviento y más. Descarga instantánea, imprimible, sin pantallas.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --blue:#2AB3F0; --blue-d:#1E8FCB; --violet:#5512DE; --violet-d:#3A0BA3;
+    --magenta:#C45FE0; --green:#15543B; --gold:#F4B400; --ink:#2A2A3C;
+    --grey:#6b6b80; --bg:#ffffff; --soft:#f4f2fc; --radius:18px;
+    --shadow:0 18px 40px rgba(42,42,60,.12);
+    --font:'Nunito',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:var(--font);color:var(--ink);background:var(--bg);line-height:1.55}
+  a{color:inherit}
+  .wrap{max-width:1140px;margin:0 auto;padding:0 22px}
+  .btn{display:inline-flex;align-items:center;gap:.5rem;border:none;cursor:pointer;
+    font-family:var(--font);font-weight:800;font-size:1rem;padding:.8rem 1.4rem;border-radius:999px;
+    text-decoration:none;transition:transform .12s ease,box-shadow .12s ease}
+  .btn:hover{transform:translateY(-2px)}
+  .btn-primary{background:var(--violet);color:#fff;box-shadow:0 8px 20px rgba(85,18,222,.35)}
+  .btn-blue{background:var(--blue);color:#08344a;box-shadow:0 8px 20px rgba(42,179,240,.35)}
+  .btn-gold{background:var(--gold);color:#4a3500;box-shadow:0 8px 20px rgba(244,180,0,.35)}
+  .btn-ghost{background:#fff;color:var(--violet);border:2px solid var(--violet)}
+  .pill{display:inline-block;font-weight:800;font-size:.72rem;letter-spacing:.04em;text-transform:uppercase;
+    padding:.28rem .6rem;border-radius:999px}
+
+  /* HEADER */
+  header.nav{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.92);backdrop-filter:blur(8px);
+    border-bottom:1px solid #eee}
+  .nav .wrap{display:flex;align-items:center;gap:1rem;height:70px}
+  .brand{display:flex;align-items:center;gap:.6rem;font-weight:900;font-size:1.4rem;text-decoration:none}
+  .brand img{height:42px}
+  .brand b{color:var(--violet)}
+  .nav nav{margin-left:auto;display:flex;gap:1.4rem;align-items:center}
+  .nav nav a{text-decoration:none;font-weight:700;color:var(--ink);font-size:.98rem}
+  .nav nav a:hover{color:var(--violet)}
+  @media(max-width:760px){.nav nav a:not(.btn){display:none}}
+
+  /* HERO */
+  .hero{background:radial-gradient(1200px 500px at 80% -10%,rgba(196,95,224,.18),transparent),
+    linear-gradient(160deg,var(--violet),var(--violet-d));color:#fff;padding:64px 0 76px;position:relative;overflow:hidden}
+  .hero h1{font-size:clamp(2rem,5vw,3.3rem);line-height:1.08;margin:.2rem 0 1rem;font-weight:900}
+  .hero h1 .y{color:var(--gold)}
+  .hero p.lead{font-size:1.18rem;max-width:560px;opacity:.95}
+  .hero .cta{display:flex;gap:.8rem;flex-wrap:wrap;margin-top:1.6rem}
+  .hero .tag{display:inline-block;background:rgba(255,255,255,.16);padding:.4rem .9rem;border-radius:999px;font-weight:700;font-size:.9rem;margin-bottom:1rem}
+  .hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:30px;align-items:center}
+  @media(max-width:860px){.hero-grid{grid-template-columns:1fr}}
+  .hero-art{display:flex;justify-content:center}
+  .hero-art img{width:min(360px,80%);filter:drop-shadow(0 20px 40px rgba(0,0,0,.35))}
+
+  /* LEAD MAGNET */
+  .lead-magnet{margin-top:-40px}
+  .lm-card{background:#fff;border-radius:24px;box-shadow:var(--shadow);padding:30px;display:grid;
+    grid-template-columns:1fr 1fr;gap:24px;align-items:center;border:2px solid #f0ecff}
+  @media(max-width:760px){.lm-card{grid-template-columns:1fr}}
+  .lm-card h3{font-size:1.5rem;margin:.2rem 0 .4rem}
+  .lm-form{display:flex;gap:.6rem;flex-wrap:wrap}
+  .lm-form input{flex:1;min-width:180px;padding:.85rem 1rem;border:2px solid #e3def7;border-radius:999px;font-family:var(--font);font-size:1rem}
+  .lm-form input:focus{outline:none;border-color:var(--violet)}
+  .muted{color:var(--grey);font-size:.86rem}
+
+  /* SECTION */
+  section{padding:64px 0}
+  .sec-head{text-align:center;max-width:680px;margin:0 auto 38px}
+  .sec-head h2{font-size:clamp(1.7rem,3.6vw,2.4rem);margin:.2rem 0 .6rem;font-weight:900}
+  .sec-head p{color:var(--grey);font-size:1.08rem}
+  .eyebrow{color:var(--violet);font-weight:800;letter-spacing:.08em;text-transform:uppercase;font-size:.8rem}
+
+  /* PRODUCT GRID */
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
+  @media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:600px){.grid{grid-template-columns:1fr}}
+  .card{background:#fff;border:1px solid #eee;border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column;
+    box-shadow:0 8px 24px rgba(42,42,60,.07);transition:transform .15s,box-shadow .15s}
+  .card:hover{transform:translateY(-4px);box-shadow:var(--shadow)}
+  .card .thumb{aspect-ratio:4/3;background:var(--soft);display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .card .thumb img{width:100%;height:100%;object-fit:cover}
+  .card .body{padding:18px 18px 20px;display:flex;flex-direction:column;flex:1}
+  .card h3{margin:.1rem 0 .35rem;font-size:1.2rem}
+  .card .desc{color:var(--grey);font-size:.94rem;flex:1}
+  .card .meta{display:flex;gap:.4rem;flex-wrap:wrap;margin:.5rem 0 .8rem}
+  .card .price-row{display:flex;align-items:center;justify-content:space-between;margin-top:auto;gap:.6rem}
+  .price{font-weight:900;font-size:1.35rem}
+  .price small{color:var(--grey);font-weight:700;font-size:.85rem;text-decoration:line-through;margin-left:.3rem}
+  .ribbon{position:absolute;top:14px;right:-34px;background:var(--magenta);color:#fff;font-weight:800;font-size:.72rem;
+    padding:.3rem 2.4rem;transform:rotate(45deg)}
+  .card.rel{position:relative}
+
+  /* BUNDLE */
+  .bundle{background:linear-gradient(135deg,#0E3B29,#15543B);color:#fff;border-radius:26px;padding:40px;
+    display:grid;grid-template-columns:1.3fr .7fr;gap:24px;align-items:center;box-shadow:var(--shadow)}
+  @media(max-width:760px){.bundle{grid-template-columns:1fr}}
+  .bundle h2{font-size:2rem;margin:.2rem 0 .6rem}
+  .bundle ul{margin:.6rem 0 1.2rem;padding-left:1.1rem}
+  .bundle .big{text-align:center}
+  .bundle .big .price{font-size:2.6rem;color:var(--gold)}
+
+  /* MEMBERSHIP */
+  .member{background:#fff;border:2px dashed var(--violet);border-radius:22px;padding:34px;text-align:center}
+  .member h2{font-size:1.8rem;margin:.2rem 0 .4rem}
+  .member .price{font-size:2.2rem;color:var(--violet)}
+
+  /* TRUST */
+  .trust{background:var(--soft)}
+  .trust .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+  @media(max-width:760px){.trust .grid3{grid-template-columns:1fr}}
+  .feat{background:#fff;border-radius:16px;padding:24px;text-align:center;box-shadow:0 6px 18px rgba(42,42,60,.06)}
+  .feat .ic{width:54px;height:54px;border-radius:14px;margin:0 auto 12px;display:flex;align-items:center;justify-content:center;font-size:1.6rem}
+
+  /* FAQ */
+  details{background:#fff;border:1px solid #eee;border-radius:14px;padding:0 18px;margin-bottom:12px}
+  details summary{cursor:pointer;font-weight:800;padding:16px 0;list-style:none;display:flex;justify-content:space-between}
+  details summary::after{content:'+';color:var(--violet);font-size:1.4rem}
+  details[open] summary::after{content:'–'}
+  details .ans{color:var(--grey);padding:0 0 16px}
+
+  /* FOOTER */
+  footer{background:var(--ink);color:#cfcfe0;padding:46px 0 30px;margin-top:30px}
+  footer .wrap{display:flex;flex-wrap:wrap;gap:24px;justify-content:space-between;align-items:center}
+  footer a{color:#fff;text-decoration:none;font-weight:700}
+  .note{background:#fff7e6;border:1px solid #ffe2a8;color:#7a5c00;border-radius:12px;padding:10px 14px;font-size:.85rem;margin-top:10px}
+</style>
+</head>
+<body>
+
+<!-- ===== NAV ===== -->
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="#top"><img src="assets/logo.png" alt="divergenios"><span>diver<b>genios</b></span></a>
+    <nav>
+      <a href="#tienda">Tienda</a>
+      <a href="#bundle">Packs</a>
+      <a href="#club">Club</a>
+      <a href="#faq">Preguntas</a>
+      <a class="btn btn-gold" href="#gratis">Descarga gratis</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ===== HERO ===== -->
+<section class="hero" id="top" style="padding-top:54px">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="tag">✦ STEAM para mentes curiosas · 6-11 años</span>
+      <h1>Ciencia que se vive <span class="y">jugando</span>, lista para descargar</h1>
+      <p class="lead">Experimentos, retos de ingeniería y aventuras STEAM con materiales de casa, sin pantallas y sin ser experto. Descarga al instante, imprime y a explorar.</p>
+      <div class="cta">
+        <a class="btn btn-gold" href="#tienda">Ver la tienda</a>
+        <a class="btn btn-ghost" style="background:transparent;color:#fff;border-color:#fff" href="#gratis">Descarga 3 experimentos gratis</a>
+      </div>
+    </div>
+    <div class="hero-art"><img src="assets/logo.png" alt="Mascota divergenios"></div>
+  </div>
+</section>
+
+<!-- ===== LEAD MAGNET ===== -->
+<div class="wrap lead-magnet" id="gratis">
+  <div class="lm-card">
+    <div>
+      <span class="pill" style="background:#eafff8;color:#0FA39A">Gratis</span>
+      <h3>Llévate 3 experimentos para empezar hoy</h3>
+      <p class="muted">Te enviamos un PDF gratuito con 3 experimentos STEAM probados. Sin spam: solo ciencia divertida y novedades del catálogo.</p>
+    </div>
+    <div>
+      <!-- ▼▼ CONECTA AQUÍ TU EMAIL: cambia action por la URL de tu formulario (Jetpack, Mailchimp, ConvertKit, MailerLite…) ▼▼ -->
+      <form class="lm-form" action="REEMPLAZA_CON_TU_FORMULARIO_DE_EMAIL" method="post">
+        <input type="text" name="nombre" placeholder="Nombre del peque (opcional)">
+        <input type="email" name="email" placeholder="Tu email" required>
+        <button class="btn btn-primary" type="submit">Enviármelo</button>
+      </form>
+      <p class="muted" style="margin:.6rem 0 0">Al apuntarte aceptas recibir el lead magnet y la newsletter. Puedes darte de baja cuando quieras.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ===== TIENDA ===== -->
+<section id="tienda">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow">La tienda</div>
+      <h2>Descargables que enseñan de verdad</h2>
+      <p>Cada producto incluye el <em>porqué</em> de la ciencia y un reto para pensar. Entrega instantánea en PDF, imprimible y en blanco y negro.</p>
+    </div>
+    <div class="grid">
+
+      <!-- LAB -->
+      <div class="card rel">
+        <div class="ribbon">Más vendido</div>
+        <div class="thumb"><img src="assets/thumb-lab.png" alt="Laboratorio Divergente en Casa"></div>
+        <div class="body">
+          <h3>Laboratorio Divergente en Casa</h3>
+          <div class="meta">
+            <span class="pill" style="background:#eef1fb;color:#5512DE">20 experimentos</span>
+            <span class="pill" style="background:#eafff8;color:#0FA39A">6-10 años</span>
+          </div>
+          <p class="desc">20 experimentos STEAM por áreas, cuaderno del científico, tangram recortable y diploma. El best-seller para empezar.</p>
+          <div class="price-row">
+            <span class="price">14 €</span>
+            <!-- ▼ pega aquí tu enlace de pago (Payhip/Gumroad/Lemon Squeezy/WooCommerce) -->
+            <a class="btn btn-primary" href="REEMPLAZA_ENLACE_PAGO_LAB">Comprar</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- INGENIERÍA -->
+      <div class="card">
+        <div class="thumb"><img src="assets/thumb-ing.png" alt="Retos de Ingeniería Divergente"></div>
+        <div class="body">
+          <h3>Retos de Ingeniería Divergente</h3>
+          <div class="meta">
+            <span class="pill" style="background:#fff0e6;color:#F6772E">16 retos</span>
+            <span class="pill" style="background:#eafff8;color:#0FA39A">6-11 años</span>
+          </div>
+          <p class="desc">16 desafíos de construcción con el ciclo de diseño (imagina → construye → prueba → mejora), cuaderno de ingeniería y diploma.</p>
+          <div class="price-row">
+            <span class="price">11 €</span>
+            <a class="btn btn-primary" href="REEMPLAZA_ENLACE_PAGO_ING">Comprar</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ADVIENTO -->
+      <div class="card rel">
+        <div class="ribbon" style="background:var(--green)">Navidad</div>
+        <div class="thumb"><img src="assets/thumb-adv.png" alt="Calendario de Adviento STEAM"></div>
+        <div class="body">
+          <h3>Calendario de Adviento STEAM</h3>
+          <div class="meta">
+            <span class="pill" style="background:#e9f7ef;color:#15543B">24 mini-retos</span>
+            <span class="pill" style="background:#fff7e0;color:#a07b00">Estacional</span>
+          </div>
+          <p class="desc">24 puertitas de ciencia para diciembre: un mini-reto al día, tarjetas recortables, póster de calendario y diploma.</p>
+          <div class="price-row">
+            <span class="price">9 €</span>
+            <a class="btn btn-primary" href="REEMPLAZA_ENLACE_PAGO_ADVIENTO">Comprar</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- TU PRIMER ROBOT -->
+      <div class="card">
+        <div class="thumb"><img src="assets/thumb-robot.png" alt="Tu primer robot"></div>
+        <div class="body">
+          <h3>Tu primer robot · mini-curso</h3>
+          <div class="meta">
+            <span class="pill" style="background:#e8f6fe;color:#1E8FCB">Vídeo + cuaderno</span>
+            <span class="pill" style="background:#eef1fb;color:#5512DE">Sin pantallas</span>
+          </div>
+          <p class="desc">12 lecciones para aprender a programar pensando, con juegos y tarjetas. Robótica y programación unplugged para peques.</p>
+          <div class="price-row">
+            <span class="price">59 €</span>
+            <a class="btn btn-primary" href="REEMPLAZA_ENLACE_PAGO_ROBOT">Comprar</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- PACK AULA -->
+      <div class="card">
+        <div class="thumb" style="background:linear-gradient(135deg,#5512DE,#3A0BA3);color:#fff;font-weight:900;font-size:1.25rem;text-align:center;padding:20px">🏫 Edición Aula<br><span style="font-weight:700;font-size:.9rem;opacity:.9">licencia de centro</span></div>
+        <div class="body">
+          <h3>Pack Aula · Laboratorio</h3>
+          <div class="meta">
+            <span class="pill" style="background:#eef1fb;color:#5512DE">Docentes</span>
+            <span class="pill" style="background:#fff0e6;color:#F6772E">Multi-alumno</span>
+          </div>
+          <p class="desc">El laboratorio + guía del método, alineación LOMLOE, rúbrica, póster A3 y licencia de centro para usar con toda la clase.</p>
+          <div class="price-row">
+            <span class="price">49 €</span>
+            <a class="btn btn-primary" href="REEMPLAZA_ENLACE_PAGO_AULA">Comprar</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- CLUB (teaser card) -->
+      <div class="card rel" id="club">
+        <div class="ribbon" style="background:var(--blue);color:#08344a">Suscripción</div>
+        <div class="thumb" style="background:linear-gradient(135deg,#C45FE0,#5512DE);color:#fff;font-weight:900;font-size:1.3rem;text-align:center;padding:20px">✦ Club Divergente<br><span style="font-weight:700;font-size:.9rem;opacity:.9">novedades cada mes</span></div>
+        <div class="body">
+          <h3>Club Divergente</h3>
+          <div class="meta">
+            <span class="pill" style="background:#fbeefb;color:#C45FE0">Membresía</span>
+            <span class="pill" style="background:#eafff8;color:#0FA39A">Cada mes</span>
+          </div>
+          <p class="desc">4 retos nuevos al mes, acceso a todo el archivo y descuentos. Ciencia divergente todo el año.</p>
+          <div class="price-row">
+            <span class="price">9 €<small style="text-decoration:none">/mes</small></span>
+            <a class="btn btn-blue" href="REEMPLAZA_ENLACE_SUSCRIPCION_CLUB">Unirme</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== BUNDLE ===== -->
+<section id="bundle" style="padding-top:0">
+  <div class="wrap">
+    <div class="bundle">
+      <div>
+        <span class="pill" style="background:rgba(255,255,255,.18);color:#fff">Ahorra 7 €</span>
+        <h2>Pack Divergente · los 3 imprimibles</h2>
+        <p>Laboratorio + Retos de Ingeniería + Calendario de Adviento. Toda la ciencia divergente de golpe, al mejor precio.</p>
+        <ul>
+          <li>20 experimentos + 16 retos + 24 mini-retos navideños</li>
+          <li>Descarga instantánea · imprimible en B/N</li>
+          <li>Uso personal y de aula</li>
+        </ul>
+        <a class="btn btn-gold" href="REEMPLAZA_ENLACE_PAGO_BUNDLE">Llevarme el pack · 27 €</a>
+      </div>
+      <div class="big">
+        <div class="price">27 €</div>
+        <div style="opacity:.8;text-decoration:line-through">34 € por separado</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== TRUST ===== -->
+<section class="trust">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow">Por qué Divergenios</div>
+      <h2>Compra tranquila, ciencia de calidad</h2>
+    </div>
+    <div class="grid3">
+      <div class="feat"><div class="ic" style="background:#eef1fb">⚡</div><h3>Entrega instantánea</h3><p class="muted">Pagas y descargas el PDF al momento. Sin esperas ni envíos.</p></div>
+      <div class="feat"><div class="ic" style="background:#eafff8">🖨️</div><h3>Imprimible y reutilizable</h3><p class="muted">Funciona en blanco y negro y lo imprimes las veces que quieras.</p></div>
+      <div class="feat"><div class="ic" style="background:#fff0e6">🔒</div><h3>Pago seguro</h3><p class="muted">Pago cifrado con tarjeta o PayPal a través de pasarela certificada.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== FAQ ===== -->
+<section id="faq">
+  <div class="wrap" style="max-width:760px">
+    <div class="sec-head"><div class="eyebrow">Preguntas frecuentes</div><h2>Todo lo que necesitas saber</h2></div>
+    <details open><summary>¿Cómo recibo el producto?</summary><div class="ans">Al completar el pago recibes un enlace de descarga inmediato y un correo con tu PDF. Es un producto digital: no se envía nada físico.</div></details>
+    <details><summary>¿Qué necesito para hacer los experimentos?</summary><div class="ans">Materiales de casa baratos y comunes (papel, vasos, bicarbonato, imanes…). Cada actividad lista lo que necesitas y marca si requiere ayuda de un adulto.</div></details>
+    <details><summary>¿Puedo usarlo en mi clase?</summary><div class="ans">Sí. Los productos permiten uso personal y de aula. Para todo un centro con varios grupos, elige el <strong>Pack Aula</strong> con licencia multi-alumno.</div></details>
+    <details><summary>¿Para qué edades es?</summary><div class="ans">Pensado para niños de 6 a 11 años, adaptable a Infantil (5) con ayuda del adulto y a mayores subiendo el reto.</div></details>
+    <details><summary>¿Puedo pedir reembolso?</summary><div class="ans">Por ser un producto digital descargable, indica tu política aquí (por ejemplo, garantía de satisfacción de 14 días si no has descargado el archivo).</div></details>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="brand" style="color:#fff"><img src="assets/logo.png" style="height:38px" alt=""> <span style="margin-left:.5rem">diver<b style="color:var(--gold)">genios</b></span></div>
+      <p class="muted" style="color:#aaa;margin:.6rem 0 0">Aprender es divertido · STEAM para mentes curiosas.</p>
+    </div>
+    <div style="display:flex;gap:1.4rem;flex-wrap:wrap">
+      <a href="#tienda">Tienda</a><a href="#bundle">Packs</a><a href="#club">Club</a><a href="#faq">Preguntas</a>
+    </div>
+    <div class="muted" style="color:#999;width:100%;border-top:1px solid #3a3a52;padding-top:16px;margin-top:8px">
+      © divergenios.com · Uso personal y de aula. Prohibida la reventa o redistribución de los archivos.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

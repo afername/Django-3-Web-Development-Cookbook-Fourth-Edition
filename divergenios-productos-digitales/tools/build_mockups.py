@@ -206,6 +206,12 @@ PRODUCTS = [
          title=['Calendario de', 'Adviento', 'STEAM'],
          bullets=['24 mini-retos · 1 por día', 'Ciencia de Navidad sin pantallas', '6-10 años · imprimible PDF'],
          fan_pages=[0, 2, 3]),
+    dict(slug='tu-primer-robot', folder='04-tu-primer-robot',
+         pdf='Tu-Primer-Robot-Cuaderno.pdf',
+         bg=(85, 18, 222), accent=(42, 179, 240),
+         title=['Tu primer', 'robot'],
+         bullets=['Robótica SIN pantallas', '13 lecciones + cuaderno', 'Vídeos + tarjetas recortables'],
+         fan_pages=[0, 2, 9]),
 ]
 
 
