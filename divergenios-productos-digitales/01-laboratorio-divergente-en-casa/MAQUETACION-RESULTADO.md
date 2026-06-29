@@ -18,17 +18,16 @@ real (14 cm) y recortable**, **Diploma** y contraportada con CTA.
 
 ## Identidad de marca
 
-- **Paleta STEAM** alegre (violeta primario + acentos por área) sobre mucho blanco.
-- **Wordmark** "diver**genios**" y **mascota "divergenio"** (bombilla-genio) vectoriales.
-- Pie de marca, leyenda de iconos y nota de licencia en cada página.
+- **Logo oficial** de Divergenios (`tools/assets/divergenios-logo.png`) integrado en
+  portada, bienvenida, cuaderno, tangram, diploma, contraportada y en cada pie de página.
+- **Paleta oficial** muestreada del logo: azul `#2AB3F0`, violeta `#5512DE` y
+  magenta `#C45FE0`, sobre mucho blanco. Acentos por área STEAM para codificar color.
+- **Wordmark** "diver**genios**" + leyenda de iconos y nota de licencia en cada página.
 - Diseñado para leerse bien también en **blanco y negro** (tintas suaves).
 
-> ⚠️ **Sobre el logo oficial:** la política de red del entorno bloquea el acceso a
-> `divergenios.com`, así que **no se pudo descargar el PNG oficial del logo**. Se
-> recreó un wordmark + mascota coherentes con la marca. Para usar el logo oficial,
-> sustitúyelo en `tools/brand.py` → `draw_logo()` por una imagen:
-> `c.drawImage('logo-oficial.png', x, y, width=..., preserveAspectRatio=True, mask='auto')`.
-> Lo mismo aplica a la paleta exacta (ajustable en la cabecera de `tools/brand.py`).
+> Para cambiar el logo o la paleta en el futuro: reemplaza la imagen en
+> `tools/assets/divergenios-logo.png` o ajusta los colores en la cabecera de
+> `tools/brand.py`, y regenera.
 
 ## Cómo regenerar
 
@@ -43,6 +42,5 @@ python3 build_lab_pdf.py       # escribe los 2 PDF en esta carpeta
 
 ## Pendiente (opcional, antes de publicar)
 
-- [ ] Sustituir el logo recreado por el **PNG/SVG oficial** de divergenios.com.
 - [ ] Generar 3-4 **mockups** para la tienda (PDF en tablet / impreso con materiales).
 - [ ] Versión **Pack Aula** (rúbricas + póster A3 + licencia de centro).

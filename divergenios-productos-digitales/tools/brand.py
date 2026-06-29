@@ -10,32 +10,52 @@ una imagen: c.drawImage('logo-oficial.png', x, y, width=..., preserveAspectRatio
 """
 from reportlab.lib.colors import HexColor, white, black
 from reportlab.pdfbase.pdfmetrics import stringWidth
+from reportlab.lib.utils import ImageReader
+import os
 
-# ---- Paleta de marca (STEAM alegre + mucho blanco) ----
-INK      = HexColor('#2A2A3C')   # texto principal (indigo-carbon)
-PURPLE   = HexColor('#7B3FE4')   # primario "divergente / magia"
-PURPLE_D = HexColor('#5B23B8')
-YELLOW   = HexColor('#FFC53D')   # acento solar
+# ---- Paleta OFICIAL (muestreada del logo de divergenios.com) ----
+INK      = HexColor('#2A2A3C')   # texto principal
+BLUE     = HexColor('#2AB3F0')   # azul bombilla (primario de marca)
+BLUE_D   = HexColor('#1E8FCB')
+PURPLE   = HexColor('#5512DE')   # violeta de los ojos (secundario)
+PURPLE_D = HexColor('#3A0BA3')
+MAGENTA  = HexColor('#C45FE0')   # magenta de pupilas/brazos (acento)
+YELLOW   = HexColor('#FFC53D')   # acento cálido puntual
 CREAM    = HexColor('#FFF7E6')
 
 # Colores por area STEAM
 CIENCIA  = HexColor('#0FA39A')   # teal
-TECNO    = HexColor('#2D7DD2')   # azul
+TECNO    = HexColor('#2AB3F0')   # azul (marca)
 INGEN    = HexColor('#F6772E')   # naranja
-ARTE     = HexColor('#E5388A')   # magenta
-MATES    = HexColor('#7B3FE4')   # violeta
+ARTE     = HexColor('#C45FE0')   # magenta (marca)
+MATES    = HexColor('#5512DE')   # violeta (marca)
 FISICA   = HexColor('#F4B400')   # ambar
 GREY     = HexColor('#8A8AA0')
-LIGHT    = HexColor('#F1EEFB')   # fondo lila muy claro
+LIGHT    = HexColor('#EEF0FB')   # fondo lila-azulado muy claro
 
 FONT  = 'DV'
 BOLD  = 'DVB'
+
+# ---- logo oficial (imagen) ----
+_LOGO_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'assets', 'divergenios-logo.png')
+LOGO = ImageReader(_LOGO_PATH) if os.path.exists(_LOGO_PATH) else None
+LOGO_AR = 321.0 / 427.0   # ancho / alto
 
 AREA_COLORS = {
     'ciencia': CIENCIA, 'quimica': CIENCIA, 'biologia': CIENCIA,
     'tecnologia': TECNO, 'ingenieria': INGEN, 'arte': ARTE,
     'matematicas': MATES, 'fisica': FISICA,
 }
+
+
+def draw_logo_image(c, cx, cy, h):
+    """Dibuja el logo oficial (mascota) centrado en (cx, cy) con altura h."""
+    if LOGO is None:
+        draw_mascot(c, cx, cy, h / 2.4)
+        return
+    w = h * LOGO_AR
+    c.drawImage(LOGO, cx - w / 2, cy - h / 2, width=w, height=h,
+                preserveAspectRatio=True, mask='auto')
 
 
 def _tint(color, t):
@@ -115,16 +135,14 @@ def draw_mascot(c, cx, cy, R, body=PURPLE):
 
 
 def draw_logo(c, x, y, size=22, dark=False, tagline=False):
-    """Wordmark 'divergenios' con bombilla. (x,y)=esquina inferior izquierda del texto."""
+    """Wordmark 'divergenios' + mascota oficial. (x,y)=base izquierda del texto."""
     c.saveState()
     base = INK if not dark else white
-    accent = PURPLE if not dark else YELLOW
-    # bombilla a la izquierda
-    r = size * 0.42
-    bx = x + r * 1.5
-    by = y + size * 0.34
-    draw_bulb(c, bx, by, r, body=YELLOW if not dark else YELLOW, ray=True)
-    tx = x + size * 1.9
+    accent = MAGENTA
+    # mascota oficial a la izquierda
+    ih = size * 1.6
+    draw_logo_image(c, x + ih * LOGO_AR / 2, y + size * 0.32, ih)
+    tx = x + ih * LOGO_AR + size * 0.35
     c.setFont(BOLD, size)
     c.setFillColor(base)
     c.drawString(tx, y, 'diver')
@@ -133,7 +151,7 @@ def draw_logo(c, x, y, size=22, dark=False, tagline=False):
     c.drawString(tx + w1, y, 'genios')
     if tagline:
         c.setFont(FONT, size * 0.42)
-        c.setFillColor(accent if not dark else white)
+        c.setFillColor(BLUE if not dark else white)
         c.drawString(tx, y - size * 0.5, 'aprender es divertido')
     c.restoreState()
     return tx + w1 + stringWidth('genios', BOLD, size)
