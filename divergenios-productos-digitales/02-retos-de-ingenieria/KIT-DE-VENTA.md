@@ -1,4 +1,4 @@
-# 💰 Kit de Venta — "Retos de Ingeniería Divergente"
+# 💰 Kit de Venta — "Retos de Ingeniería Divergenio"
 
 > Producto #2. Mismo comprador (familias + docentes). Diseñado para **vender en
 > bundle con el #1** y para posicionar a Divergenios en "construir / maker / STEM".
@@ -6,7 +6,7 @@
 ---
 
 ## Nombre
-**Retos de Ingeniería Divergente · 16 desafíos para construir con lo que tienes (6-11 años)**
+**Retos de Ingeniería Divergenio · 16 desafíos para construir con lo que tienes (6-11 años)**
 
 ## Propuesta de valor (una frase)
 > **16 misiones de ingeniería con materiales de casa donde tu peque diseña,

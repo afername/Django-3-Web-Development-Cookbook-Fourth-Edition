@@ -188,16 +188,16 @@ def mockup_social(cover, title_lines, bullets, bg_color, accent, out):
 
 # ---------------- config por producto ----------------
 PRODUCTS = [
-    dict(slug='laboratorio-divergente', folder='01-laboratorio-divergente-en-casa',
-         pdf='Laboratorio-Divergente-en-Casa.pdf',
+    dict(slug='laboratorio-divergenio', folder='01-laboratorio-divergenio-en-casa',
+         pdf='Laboratorio-Divergenio-en-Casa.pdf',
          bg=(85, 18, 222), accent=(42, 179, 240),
-         title=['Laboratorio', 'Divergente', 'en casa'],
+         title=['Laboratorio', 'Divergenio', 'en casa'],
          bullets=['20 experimentos STEAM', 'Materiales de casa · sin pantallas', '6-10 años · imprimible PDF'],
          fan_pages=[0, 4, 24]),
     dict(slug='retos-ingenieria', folder='02-retos-de-ingenieria',
-         pdf='Retos-de-Ingenieria-Divergente.pdf',
+         pdf='Retos-de-Ingenieria-Divergenio.pdf',
          bg=(16, 69, 110), accent=(196, 95, 224),
-         title=['Retos de', 'Ingeniería', 'Divergente'],
+         title=['Retos de', 'Ingeniería', 'Divergenio'],
          bullets=['16 desafíos de construcción', 'Aprende el ciclo de diseño', '6-11 años · imprimible PDF'],
          fan_pages=[0, 2, 5]),
     dict(slug='calendario-adviento', folder='03-calendario-adviento-steam',

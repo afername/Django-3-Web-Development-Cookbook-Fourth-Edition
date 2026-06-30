@@ -13,7 +13,7 @@
 ### Programar un robot... ¡sin una sola pantalla!
 ¿Y si tu peque aprendiera a pensar como un programador de cohetes y videojuegos usando solo papel, tiza y su propio cuerpo? En **Tu primer robot**, la robótica se convierte en un juego de tarjetas de flechas, cuadrículas en el suelo y "robots humanos". Sin tablets, sin apps, sin tiempo de pantalla. Solo curiosidad, materiales de casa y mucha diversión compartida.
 
-Aquí no hay "alumnos": hay **ingenieros e ingenieras divergentes** que descubren las ideas más potentes de la informática —algoritmos, bucles, condicionales, funciones— jugando con las manos y moviéndose. Y cuando se entiende **el porqué**, se aprende de verdad.
+Aquí no hay "alumnos": hay **ingenieros e ingenieras divergenios** que descubren las ideas más potentes de la informática —algoritmos, bucles, condicionales, funciones— jugando con las manos y moviéndose. Y cuando se entiende **el porqué**, se aprende de verdad.
 
 **Para las familias:**
 - 🚫 **Cero pantallas:** aprendizaje STEAM real lejos de la tablet, justo lo que buscabas.
@@ -35,14 +35,14 @@ Aquí no hay "alumnos": hay **ingenieros e ingenieras divergentes** que descubre
 - 🖨️ **Cuaderno imprimible de actividades** (blanco y negro), con una actividad sin pantallas por lección.
 - ✂️ **Tarjetas de flechas recortables** (adelante, girar izquierda, girar derecha) más tarjetas especiales de "repetir" y "función".
 - 🗺️ **Plantillas de cuadrícula y laberinto** para el suelo o la mesa, listas para imprimir.
-- 🏅 **Diploma de programador o programadora divergente** personalizable para celebrar el final.
+- 🏅 **Diploma de programador o programadora divergenio** personalizable para celebrar el final.
 
 ---
 
 ## 💶 Precio sugerido
 
 - **Mini-curso "Tu primer robot": 59 €** (rango recomendado 49-69 €).
-- **Bundle "Pequeños ingenieros divergentes":** Tu primer robot + otro mini-curso STEAM a precio reducido (sugerido **89-99 €** en vez de comprar por separado).
+- **Bundle "Pequeños ingenieros divergenios":** Tu primer robot + otro mini-curso STEAM a precio reducido (sugerido **89-99 €** en vez de comprar por separado).
 - **Licencia de aula / pack para centros:** consultar (precio por número de aulas).
 
 ---

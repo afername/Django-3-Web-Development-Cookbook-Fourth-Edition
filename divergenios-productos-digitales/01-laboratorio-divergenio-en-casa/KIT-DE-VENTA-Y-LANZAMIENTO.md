@@ -1,13 +1,13 @@
 # 💰 Kit de Venta y Lanzamiento
-### "Laboratorio Divergente en Casa" · listo para publicar
+### "Laboratorio Divergenio en Casa" · listo para publicar
 
 ---
 
 ## 1. Nombres del producto (A/B testing)
 
-- **Principal:** *Laboratorio Divergente en Casa · 20 experimentos STEAM para peques curiosos (6-10 años)*
+- **Principal:** *Laboratorio Divergenio en Casa · 20 experimentos STEAM para peques curiosos (6-10 años)*
 - Alternativas para test:
-  - *El Gran Cuaderno de Experimentos Divergentes*
+  - *El Gran Cuaderno de Experimentos Divergenios*
   - *20 Experimentos para Pequeños Científicos · Aprender es divertido*
   - *Laboratorio en Casa: ciencia que se vive con las manos*
 
@@ -36,20 +36,20 @@ ser experto, sin gastar una fortuna.
 > explicación. Tú no tienes tiempo de inventarte una clase de ciencias cada tarde.
 
 ### La solución
-Con **Laboratorio Divergente en Casa** abres el PDF, eliges un experimento según
+Con **Laboratorio Divergenio en Casa** abres el PDF, eliges un experimento según
 el tiempo que tengas, y en minutos estáis haciendo erupcionar un volcán o
 descifrando mensajes secretos. Cada actividad incluye:
 
 - 👣 **Paso a paso** clarísimo, a prueba de prisas.
 - 🤯 **"¿Qué pasó?"** — la ciencia explicada para niños (¡tú también aprendes!).
-- 🚀 **Un reto divergente** que les hace pensar, no solo seguir la receta.
+- 🚀 **Un reto divergenio** que les hace pensar, no solo seguir la receta.
 - 🗣️ **La pregunta de oro** para que tú guíes sin tener que saber la respuesta.
 
 ### Qué incluye (bullets de valor)
 - ✅ **20 experimentos** de las 5 áreas STEAM (ciencia, tecnología, ingeniería, arte y mates).
 - ✅ **Cuaderno del Científico** imprimible (método científico para peques).
 - ✅ **Plantilla de tangram** y actividades de pensamiento computacional **sin pantallas**.
-- ✅ **Diploma de Científico Divergente** para celebrar.
+- ✅ **Diploma de Científico Divergenio** para celebrar.
 - ✅ **Guía del adulto** con la ciencia y las preguntas para acompañar.
 - ✅ **Índices por edad, tiempo y materiales** para elegir en 10 segundos.
 - ✅ Optimizado para **imprimir en blanco y negro** (ahorra tinta).
@@ -73,7 +73,7 @@ La próxima tarde de "me aburro" puede ser la próxima tarde de "¡otra vez!". �
 
 ## 4. Descripción corta para tienda / marketplace (Etsy, Payhip, Gumroad)
 
-> 🔬 **Laboratorio Divergente en Casa — 20 experimentos STEAM imprimibles (6-10 años)**
+> 🔬 **Laboratorio Divergenio en Casa — 20 experimentos STEAM imprimibles (6-10 años)**
 > Volcanes, mensajes secretos, torres imposibles, cristales y mucho más, con
 > materiales de casa y la ciencia explicada para peques. Incluye Cuaderno del
 > Científico, tangram, retos sin pantallas y diploma. Descarga al instante en PDF.

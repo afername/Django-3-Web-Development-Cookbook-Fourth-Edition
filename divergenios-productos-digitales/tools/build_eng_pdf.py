@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Maqueta 'Retos de Ingeniería Divergente' a PDF profesional, con marca Divergenios.
+Maqueta 'Retos de Ingeniería Divergenio' a PDF profesional, con marca Divergenios.
 Reutiliza la identidad (brand.py) y los helpers de build_lab_pdf.py.
 Genera:
-  - Retos-de-Ingenieria-Divergente.pdf  (producto completo)
+  - Retos-de-Ingenieria-Divergenio.pdf  (producto completo)
   - Lead-Magnet-3-Retos.pdf             (captación, 3 retos gratis)
 Uso:  python3 build_eng_pdf.py
 """
@@ -78,7 +78,7 @@ def parse_retos(path):
             continue
         for key, marker in (('mision', '**Misión:**'), ('necesitas', '**Necesitas:**'),
                             ('construye', '**Construye:**'), ('ingenieria', '**La ingeniería detrás:**'),
-                            ('prueba', '**Prueba y mejora:**'), ('reto', '**Reto divergente:**')):
+                            ('prueba', '**Prueba y mejora:**'), ('reto', '**Reto divergenio:**')):
             if marker in line:
                 val = clean(line.split(marker, 1)[1])
                 cur[key] = val[0].upper() + val[1:] if val else val
@@ -104,7 +104,7 @@ def page_cover(c):
     c.drawCentredString(W / 2, H * 0.5 - 48, 'Ingeniería')
     c.setFont(BOLD, 30)
     c.setFillColor(B.MAGENTA)
-    c.drawCentredString(W / 2, H * 0.5 - 90, 'Divergente')
+    c.drawCentredString(W / 2, H * 0.5 - 90, 'Divergenio')
     c.setFillColor(white)
     c.roundRect(W / 2 - 210, H * 0.32, 420, 34, 17, fill=1, stroke=0)
     c.setFillColor(NAVY)
@@ -167,7 +167,7 @@ def page_welcome(c):
     y -= 108
     c.setFont(BOLD, 15)
     c.setFillColor(B.MATES)
-    c.drawString(MARGIN, y, '¿Listo, ingeniero divergente? Ponte el casco imaginario.')
+    c.drawString(MARGIN, y, '¿Listo, ingeniero divergenio? Ponte el casco imaginario.')
     footer(c, 2)
     c.showPage()
 
@@ -482,7 +482,7 @@ def page_reto(c, e, page_no, dest):
         rh = para_h(e['reto'], wmax, FONT, bs, lead) + 24
         c.setFillColor(B.tint(B.INGEN, 0.88))
         c.roundRect(MARGIN, y - rh, W - 2 * MARGIN, rh, 10, fill=1, stroke=0)
-        section_label(c, MARGIN + 10, y - 14, 'RETO DIVERGENTE', B.INGEN)
+        section_label(c, MARGIN + 10, y - 14, 'RETO DIVERGENIO', B.INGEN)
         para(c, e['reto'], MARGIN + 12, y - 32, wmax, FONT, bs, lead, B.INK)
         y -= rh + gap
 
@@ -605,7 +605,7 @@ def page_diploma(c, page_no):
     c.drawCentredString(W / 2, H - 230, 'DIPLOMA DE')
     c.setFont(BOLD, 34)
     c.setFillColor(B.MAGENTA)
-    c.drawCentredString(W / 2, H - 270, 'INGENIERO/A DIVERGENTE')
+    c.drawCentredString(W / 2, H - 270, 'INGENIERO/A DIVERGENIO')
     c.setFillColor(B.INK)
     c.setFont(FONT, 14)
     c.drawCentredString(W / 2, H - 314, 'Otorgado con orgullo a:')
@@ -642,7 +642,7 @@ def page_back(c, page_no):
          'divergenios.com te esperan más experimentos, robótica sin pantallas y retos '
          'nuevos cada mes para seguir creando.',
          W / 2 - 220, H * 0.44, 440, FONT, 13, 19, white, align='center')
-    ctas = ['Laboratorio Divergente · 20 experimentos', 'Club Divergente · novedades cada mes',
+    ctas = ['Laboratorio Divergenio · 20 experimentos', 'Club Divergenio · novedades cada mes',
             'Tu primer robot · sin pantallas']
     yy = H * 0.33
     for t in ctas:
@@ -666,7 +666,7 @@ def page_back(c, page_no):
 
 def build(retos, outfile, subset=None, lead_magnet=False):
     c = canvas.Canvas(outfile, pagesize=A4)
-    c.setTitle('Retos de Ingeniería Divergente' + (' — Muestra gratis' if lead_magnet else ''))
+    c.setTitle('Retos de Ingeniería Divergenio' + (' — Muestra gratis' if lead_magnet else ''))
     c.setAuthor('divergenios.com')
     c.setSubject('16 desafíos de ingeniería para 6-11 años')
     dests = {e['n']: 'reto%d' % e['n'] for e in retos}
@@ -696,7 +696,7 @@ def build(retos, outfile, subset=None, lead_magnet=False):
 def main():
     retos = parse_retos(SRC)
     assert len(retos) == 16, 'Se esperaban 16 retos, hay %d' % len(retos)
-    full = os.path.join(OUTDIR, 'Retos-de-Ingenieria-Divergente.pdf')
+    full = os.path.join(OUTDIR, 'Retos-de-Ingenieria-Divergenio.pdf')
     lead = os.path.join(OUTDIR, 'Lead-Magnet-3-Retos.pdf')
     n1 = build(retos, full)
     n2 = build(retos, lead, subset={1, 7, 16}, lead_magnet=True)

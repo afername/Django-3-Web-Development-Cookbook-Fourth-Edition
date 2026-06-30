@@ -8,7 +8,7 @@ editas el texto fuente puedes regenerarlos en segundos.
 
 | Archivo | Qué es | Páginas |
 |---------|--------|--------:|
-| `Laboratorio-Divergente-en-Casa.pdf` | Producto completo, listo para vender | 28 |
+| `Laboratorio-Divergenio-en-Casa.pdf` | Producto completo, listo para vender | 28 |
 | `Lead-Magnet-3-Experimentos.pdf` | Muestra gratis (exp. 1, 9 y 19) para captación | 7 |
 
 Incluye: portada, carta de bienvenida, póster de seguridad, **índice clicable**,

@@ -1,4 +1,4 @@
-# 🏗️ Retos de Ingeniería Divergente
+# 🏗️ Retos de Ingeniería Divergenio
 ### 16 desafíos para construir con lo que tienes en casa · 6-11 años
 
 > _Aprender es divertido._ · **divergenios.com**
@@ -22,7 +22,7 @@ Cada reto tiene:
 3. **🧠 La ingeniería detrás** — por qué funciona, explicado para peques.
 4. **📏 Prueba y mejora** — el secreto de todo ingeniero.
 
-¿Listo, ingeniero divergente? Ponte el casco imaginario. 👷
+¿Listo, ingeniero divergenio? Ponte el casco imaginario. 👷
 
 ---
 
@@ -77,7 +77,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 📏 **Prueba y mejora:** mide tu torre. Ahora cambia UNA cosa (base más ancha, tubos más gruesos) e intenta superar tu récord.
 
-🚀 **Reto divergente:** ¿aguanta una pelota de papel en la punta sin caerse?
+🚀 **Reto divergenio:** ¿aguanta una pelota de papel en la punta sin caerse?
 
 ---
 
@@ -94,7 +94,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 📏 **Prueba y mejora:** cuenta cuántas monedas aguanta cada diseño. Anota el ganador.
 
-🚀 **Reto divergente:** alarga el río (separa más las sillas). ¿Tu diseño sigue aguantando o hay que rediseñar?
+🚀 **Reto divergenio:** alarga el río (separa más las sillas). ¿Tu diseño sigue aguantando o hay que rediseñar?
 
 ---
 
@@ -109,7 +109,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 🧠 **La ingeniería detrás:** en los terremotos, las diagonales (**arriostramiento**) impiden que la estructura se deforme. Una base ancha y pesada baja el "centro de gravedad" y la hace más estable. Los ingenieros de zonas sísmicas usan justo estos trucos.
 
-🚀 **Reto divergente:** ¿quién hace la torre más alta que sobreviva a 5 segundos de terremoto?
+🚀 **Reto divergenio:** ¿quién hace la torre más alta que sobreviva a 5 segundos de terremoto?
 
 ---
 
@@ -124,7 +124,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 🧠 **La ingeniería detrás:** las **columnas** transmiten el peso al suelo, y un **techo inclinado** reparte la carga mejor que uno plano. Por eso muchas casas tienen tejado en pico.
 
-🚀 **Reto divergente:** ¿cuántos libros aguanta antes de ceder? Refuerza el punto que se rompió primero.
+🚀 **Reto divergenio:** ¿cuántos libros aguanta antes de ceder? Refuerza el punto que se rompió primero.
 
 ---
 
@@ -143,7 +143,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 📏 **Prueba y mejora:** mide la distancia. Prueba ruedas más ligeras, ejes más rectos, un globo más grande. ¿Qué cambio dio más metros?
 
-🚀 **Reto divergente:** haz una carrera. ¿Más lejos = más rápido? ¡No siempre!
+🚀 **Reto divergenio:** haz una carrera. ¿Más lejos = más rápido? ¡No siempre!
 
 ---
 
@@ -160,7 +160,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 📏 **Prueba y mejora:** cronometra. Prueba una cúpula más grande, un agujerito en el centro (¡sorpresa: a veces cae más estable!).
 
-🚀 **Reto divergente:** ¿quién diseña el que más tarda en tocar el suelo desde la misma altura?
+🚀 **Reto divergenio:** ¿quién diseña el que más tarda en tocar el suelo desde la misma altura?
 
 ---
 
@@ -177,7 +177,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 📏 **Prueba y mejora:** empieza con plastilina para no gastar huevos. Sube la altura poco a poco.
 
-🚀 **Reto divergente:** consigue protegerlo con el **menor número de materiales** posible. ¡Elegancia de ingeniero!
+🚀 **Reto divergenio:** consigue protegerlo con el **menor número de materiales** posible. ¡Elegancia de ingeniero!
 
 ---
 
@@ -194,7 +194,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 📏 **Prueba y mejora:** si se atasca, sube la pendiente; si se sale, levanta el borde de la curva.
 
-🚀 **Reto divergente:** añade un "looping" o un salto. ¿Cuánta altura inicial necesitas para lograrlo?
+🚀 **Reto divergenio:** añade un "looping" o un salto. ¿Cuánta altura inicial necesitas para lograrlo?
 
 ---
 
@@ -211,7 +211,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 🧠 **La ingeniería detrás:** una **palanca** multiplica tu fuerza. Cuanto **más cerca del peso** pongas el punto de apoyo, menos esfuerzo necesitas (pero tienes que mover más el otro lado). Por eso un balancín, unas tijeras o un cascanueces funcionan.
 
-🚀 **Reto divergente:** encuentra la posición del apoyo con la que levantas el peso con un solo dedo.
+🚀 **Reto divergenio:** encuentra la posición del apoyo con la que levantas el peso con un solo dedo.
 
 ---
 
@@ -226,7 +226,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 🧠 **La ingeniería detrás:** los líquidos **no se comprimen**: al empujar uno por un lado, mueve lo que hay al otro. Eso es la **hidráulica**, y mueve excavadoras, grúas y frenos de coche.
 
-🚀 **Reto divergente:** ¿se mueve igual con **aire** (neumática) que con **agua**? Pruébalo y nota la diferencia.
+🚀 **Reto divergenio:** ¿se mueve igual con **aire** (neumática) que con **agua**? Pruébalo y nota la diferencia.
 
 ---
 
@@ -241,7 +241,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 🧠 **La ingeniería detrás:** la **gravedad** tira de la carga hacia abajo y la inclinación la guía. Con una **polea** real podrías subirla también tirando de una cuerda con menos esfuerzo.
 
-🚀 **Reto divergente:** haz que vuelva sola añadiendo una segunda cuerda y un contrapeso.
+🚀 **Reto divergenio:** haz que vuelva sola añadiendo una segunda cuerda y un contrapeso.
 
 ---
 
@@ -256,7 +256,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 🧠 **La ingeniería detrás:** el aire choca con las aspas **inclinadas** y las empuja de lado, haciéndolas girar. Si están planas, el aire pasa sin empujar. Así funcionan los molinos y los **aerogeneradores** que hacen electricidad.
 
-🚀 **Reto divergente:** cambia el número, el tamaño y el ángulo de las aspas. ¿Cuántas y con qué ángulo giran más rápido?
+🚀 **Reto divergenio:** cambia el número, el tamaño y el ángulo de las aspas. ¿Cuántas y con qué ángulo giran más rápido?
 
 ---
 
@@ -275,7 +275,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 📏 **Prueba y mejora:** añade monedas de una en una hasta que se hunda. Rediseña para superar el récord.
 
-🚀 **Reto divergente:** ¿flota más una bola de aluminio o la misma cantidad hecha "barquito"? Descúbrelo.
+🚀 **Reto divergenio:** ¿flota más una bola de aluminio o la misma cantidad hecha "barquito"? Descúbrelo.
 
 ---
 
@@ -292,7 +292,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 📏 **Prueba y mejora:** anota altura y tiempo en una tabla. Dibuja una gráfica: ¿qué relación ves?
 
-🚀 **Reto divergente:** ¿llega más lejos al salir si la rampa termina hacia arriba? Diseña un "salto".
+🚀 **Reto divergenio:** ¿llega más lejos al salir si la rampa termina hacia arriba? Diseña un "salto".
 
 ---
 
@@ -309,7 +309,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 📏 **Prueba y mejora:** si te quedas corto, estira más la goma; si te pasas, menos. Encuentra el "ajuste" exacto.
 
-🚀 **Reto divergente:** aleja la diana. ¿Qué tienes que cambiar para seguir acertando?
+🚀 **Reto divergenio:** aleja la diana. ¿Qué tienes que cambiar para seguir acertando?
 
 ---
 
@@ -324,7 +324,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 🧠 **La ingeniería detrás:** los robots y tu propio brazo se mueven por **articulaciones** (como tu codo). Los hilos hacen de "músculos/tendones" que tiran para doblar. Los robots reales usan motores en vez de hilos, pero la idea es la misma.
 
-🚀 **Reto divergente:** ¿puedes mover un vasito de un sitio a otro sin tocarlo con la mano, solo con tu brazo robótico?
+🚀 **Reto divergenio:** ¿puedes mover un vasito de un sitio a otro sin tocarlo con la mano, solo con tu brazo robótico?
 
 ---
 
@@ -332,7 +332,7 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 ```
 ┌───────────────────────────────────────────────────────────┐
-│  🏗️ MI CUADERNO DE INGENIERÍA DIVERGENTE                    │
+│  🏗️ MI CUADERNO DE INGENIERÍA DIVERGENIO                    │
 │                                                             │
 │  Ingeniero/a: __________________  Reto nº: ____             │
 │  Misión: ________________________________________________   │
@@ -360,11 +360,11 @@ Pega esto en la pared. Lo usarás en TODOS los retos:
 
 ---
 
-# 🏅 Diploma de Ingeniero/a Divergente (imprimible)
+# 🏅 Diploma de Ingeniero/a Divergenio (imprimible)
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║          🏅  DIPLOMA  DE  INGENIERO/A  DIVERGENTE  🏅       ║
+║          🏅  DIPLOMA  DE  INGENIERO/A  DIVERGENIO  🏅       ║
 ║                                                            ║
 ║   Otorgado con orgullo a:                                  ║
 ║   ____________________________________________________     ║

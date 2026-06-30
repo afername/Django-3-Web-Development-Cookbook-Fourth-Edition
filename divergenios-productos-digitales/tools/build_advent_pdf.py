@@ -108,7 +108,7 @@ def parse_days(path):
                 cur['meta']['tiempo'] = clean(mt.group(1))
             continue
         for key, marker in (('necesitas', '**Necesitas:**'), ('hazlo', '**Hazlo:**'),
-                            ('chispa', '**La chispa:**'), ('toque', '**Toque divergente:**')):
+                            ('chispa', '**La chispa:**'), ('toque', '**Toque divergenio:**')):
             if marker in line:
                 cur[key] = clean(line.split(marker, 1)[1])
                 break
@@ -328,7 +328,7 @@ def draw_card(c, e, x, y, w, h):
         bs = cand
     lead = bs + 3.2
     labels = [('necesitas', 'NECESITAS', B.CIENCIA), ('hazlo', 'HAZLO', col),
-              ('chispa', 'LA CHISPA', B.FISICA), ('toque', 'TOQUE DIVERGENTE', B.ARTE)]
+              ('chispa', 'LA CHISPA', B.FISICA), ('toque', 'TOQUE DIVERGENIO', B.ARTE)]
     for key, lab, lcol in labels:
         if not e.get(key):
             continue
@@ -387,7 +387,7 @@ def page_diploma(c, page_no):
     c.drawCentredString(W / 2, H - 232, '¡CALENDARIO COMPLETADO!')
     c.setFont(BOLD, 22)
     c.setFillColor(RED)
-    c.drawCentredString(W / 2, H - 268, 'Diploma de Científico/a Divergente')
+    c.drawCentredString(W / 2, H - 268, 'Diploma de Científico/a Divergenio')
     c.setFillColor(B.INK)
     c.setFont(FONT, 14)
     c.drawCentredString(W / 2, H - 318, 'Otorgado con orgullo a:')
@@ -422,8 +422,8 @@ def page_back(c, page_no):
     para(c, 'Si te ha gustado esta cuenta atrás, en divergenios.com te esperan experimentos, '
          'retos de ingeniería y robótica sin pantallas para seguir explorando todo el año.',
          W / 2 - 220, H * 0.44, 440, FONT, 13, 19, white, align='center')
-    ctas = ['Laboratorio Divergente · 20 experimentos', 'Retos de Ingeniería · 16 desafíos',
-            'Club Divergente · novedades cada mes']
+    ctas = ['Laboratorio Divergenio · 20 experimentos', 'Retos de Ingeniería · 16 desafíos',
+            'Club Divergenio · novedades cada mes']
     yy = H * 0.33
     for t in ctas:
         wc = pdfmetrics.stringWidth(t, BOLD, 13) + 40

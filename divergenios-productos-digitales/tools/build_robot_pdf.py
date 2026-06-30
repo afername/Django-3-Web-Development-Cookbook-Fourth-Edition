@@ -66,7 +66,7 @@ def parse_lessons(path):
             continue
         for key, marker in (('video', '**En el vídeo:**'), ('necesitas', '**Necesitas:**'),
                             ('actividad', '**Actividad sin pantallas:**'), ('idea', '**La idea:**'),
-                            ('reto', '**Reto divergente:**')):
+                            ('reto', '**Reto divergenio:**')):
             if marker in line:
                 cur[key] = clean(line.split(marker, 1)[1])
                 break
@@ -246,7 +246,7 @@ def draw_lesson_card(c, e, x, y, w, h):
 
     labels = [('video', 'EN EL VÍDEO', B.MATES), ('necesitas', 'NECESITAS', B.CIENCIA),
               ('actividad', 'ACTIVIDAD SIN PANTALLAS', col), ('idea', 'LA IDEA', B.INGEN),
-              ('reto', 'RETO DIVERGENTE', B.ARTE)]
+              ('reto', 'RETO DIVERGENIO', B.ARTE)]
 
     def total(bs):
         lead = bs + 3
@@ -421,7 +421,7 @@ def page_diploma(c, page_no):
     c.drawCentredString(W / 2, H - 232, 'DIPLOMA DE')
     c.setFont(BOLD, 32)
     c.setFillColor(B.MAGENTA)
-    c.drawCentredString(W / 2, H - 272, 'PROGRAMADOR/A DIVERGENTE')
+    c.drawCentredString(W / 2, H - 272, 'PROGRAMADOR/A DIVERGENIO')
     c.setFillColor(B.INK)
     c.setFont(FONT, 14)
     c.drawCentredString(W / 2, H - 318, 'Otorgado con orgullo a:')
@@ -456,8 +456,8 @@ def page_back(c, page_no):
     para(c, 'Ya piensas como un programador. En divergenios.com te esperan experimentos, retos '
          'de ingeniería y más aventuras STEAM para seguir creando.',
          W / 2 - 220, H * 0.45, 440, FONT, 13, 19, white, align='center')
-    ctas = ['Laboratorio Divergente · 20 experimentos', 'Retos de Ingeniería · 16 desafíos',
-            'Club Divergente · novedades cada mes']
+    ctas = ['Laboratorio Divergenio · 20 experimentos', 'Retos de Ingeniería · 16 desafíos',
+            'Club Divergenio · novedades cada mes']
     yy = H * 0.34
     for t in ctas:
         wc = pdfmetrics.stringWidth(t, BOLD, 13) + 40

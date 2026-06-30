@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Maqueta 'Laboratorio Divergente en Casa' a PDF profesional, con marca Divergenios.
+Maqueta 'Laboratorio Divergenio en Casa' a PDF profesional, con marca Divergenios.
 Genera:
-  - Laboratorio-Divergente-en-Casa.pdf  (producto completo)
+  - Laboratorio-Divergenio-en-Casa.pdf  (producto completo)
   - Lead-Magnet-3-Experimentos.pdf      (captacion, 3 experimentos gratis)
 Uso:  python3 build_lab_pdf.py
 """
@@ -23,8 +23,8 @@ import brand as B
 W, H = A4
 MARGIN = 44
 HERE = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.join(HERE, '..', '01-laboratorio-divergente-en-casa', 'PRODUCTO.md')
-OUTDIR = os.path.join(HERE, '..', '01-laboratorio-divergente-en-casa')
+SRC = os.path.join(HERE, '..', '01-laboratorio-divergenio-en-casa', 'PRODUCTO.md')
+OUTDIR = os.path.join(HERE, '..', '01-laboratorio-divergenio-en-casa')
 
 # ---- fuentes ----
 DV = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
@@ -87,8 +87,8 @@ def parse_experiments(path):
                     cur['meta']['tiempo'] = p.split(':', 1)[1].strip()
             mode = None
             continue
-        if '**Pregunta divergente:**' in line:
-            cur['pregunta'] = clean(line.split('**Pregunta divergente:**')[1])
+        if '**Pregunta divergenio:**' in line:
+            cur['pregunta'] = clean(line.split('**Pregunta divergenio:**')[1])
             mode = None
             continue
         if '**Necesitas:**' in line:
@@ -102,8 +102,8 @@ def parse_experiments(path):
             cur['quepaso'] = clean(line.split('**¿Qué pasó?**')[1])
             mode = None
             continue
-        if '**Reto divergente:**' in line:
-            cur['reto'] = clean(line.split('**Reto divergente:**')[1])
+        if '**Reto divergenio:**' in line:
+            cur['reto'] = clean(line.split('**Reto divergenio:**')[1])
             mode = None
             continue
         if '**Pregunta de oro' in line:
@@ -205,7 +205,7 @@ def page_cover(c):
     c.setFillColor(white)
     c.setFont(BOLD, 46)
     c.drawCentredString(W / 2, H * 0.5, 'Laboratorio')
-    c.drawCentredString(W / 2, H * 0.5 - 50, 'Divergente')
+    c.drawCentredString(W / 2, H * 0.5 - 50, 'Divergenio')
     c.setFont(BOLD, 30)
     c.setFillColor(B.BLUE)
     c.drawCentredString(W / 2, H * 0.5 - 92, 'en casa')
@@ -263,7 +263,7 @@ def page_welcome(c):
     parts = [
         ('1', 'Paso a paso', 'Qué hacer, fácil y claro.', B.TECNO),
         ('2', '¿Qué pasó?', 'La ciencia explicada para que de verdad la entiendas.', B.CIENCIA),
-        ('3', 'Reto divergente', 'La pregunta que convierte a un curioso en científico.', B.INGEN),
+        ('3', 'Reto divergenio', 'La pregunta que convierte a un curioso en científico.', B.INGEN),
     ]
     bw = (W - 2 * MARGIN - 20) / 3
     for i, (num, tit, desc, col) in enumerate(parts):
@@ -454,14 +454,14 @@ def page_experiment(c, e, page_no, dest):
         y = avail_top
         lead = body_size + 4
         gap = 9
-        # Pregunta divergente (destacada)
+        # Pregunta divergenio (destacada)
         if e.get('pregunta'):
             ph = para_h(e['pregunta'], W - 2 * MARGIN - 24, BOLD, body_size + 1, lead + 1) + 22
             c.setFillColor(B.tint(B.YELLOW, 0.7))
             c.roundRect(MARGIN, y - ph, W - 2 * MARGIN, ph, 10, fill=1, stroke=0)
             c.setFillColor(B.INK)
             c.setFont(BOLD, 9)
-            c.drawString(MARGIN + 12, y - 14, 'PREGUNTA DIVERGENTE')
+            c.drawString(MARGIN + 12, y - 14, 'PREGUNTA DIVERGENIO')
             para(c, e['pregunta'], MARGIN + 12, y - 30, W - 2 * MARGIN - 24,
                  BOLD, body_size + 1, lead + 1, B.INK)
             y -= ph + gap
@@ -498,7 +498,7 @@ def page_experiment(c, e, page_no, dest):
             rh = para_h(e['reto'], W - 2 * MARGIN - 24, FONT, body_size, lead) + 24
             c.setFillColor(B.tint(B.INGEN, 0.88))
             c.roundRect(MARGIN, y - rh, W - 2 * MARGIN, rh, 10, fill=1, stroke=0)
-            section_label(c, MARGIN + 10, y - 14, 'RETO DIVERGENTE', B.INGEN)
+            section_label(c, MARGIN + 10, y - 14, 'RETO DIVERGENIO', B.INGEN)
             para(c, e['reto'], MARGIN + 12, y - 32, W - 2 * MARGIN - 24, FONT, body_size, lead, B.INK)
             y -= rh + gap
         # Pregunta de oro
@@ -824,7 +824,7 @@ def page_diploma(c, page_no):
     c.drawCentredString(W / 2, H - 230, 'DIPLOMA DE')
     c.setFont(BOLD, 36)
     c.setFillColor(B.MAGENTA)
-    c.drawCentredString(W / 2, H - 272, 'CIENTÍFICO/A DIVERGENTE')
+    c.drawCentredString(W / 2, H - 272, 'CIENTÍFICO/A DIVERGENIO')
     c.setFillColor(B.INK)
     c.setFont(FONT, 14)
     c.drawCentredString(W / 2, H - 320, 'Se otorga con orgullo a:')
@@ -858,10 +858,10 @@ def page_back(c, page_no):
     c.drawCentredString(W / 2, H * 0.58 - 38, 'de más ciencia?')
     para(c, 'Esto es solo el principio. En divergenios.com te esperan más retos de '
          'ingeniería, robótica sin pantallas, experimentos nuevos cada mes y un montón '
-         'de ideas para seguir siendo un científico divergente.',
+         'de ideas para seguir siendo un científico divergenio.',
          W / 2 - 220, H * 0.44, 440, FONT, 13, 19, white, align='center')
     # CTA pills
-    ctas = ['Retos de Ingeniería Divergente', 'Club Divergente · novedades cada mes',
+    ctas = ['Retos de Ingeniería Divergenio', 'Club Divergenio · novedades cada mes',
             'Tu primer robot · sin pantallas']
     yy = H * 0.33
     for t in ctas:
@@ -888,7 +888,7 @@ def page_back(c, page_no):
 
 def build(experiments, outfile, subset=None, lead_magnet=False):
     c = canvas.Canvas(outfile, pagesize=A4)
-    c.setTitle('Laboratorio Divergente en Casa' + (' — Muestra gratis' if lead_magnet else ''))
+    c.setTitle('Laboratorio Divergenio en Casa' + (' — Muestra gratis' if lead_magnet else ''))
     c.setAuthor('divergenios.com')
     c.setSubject('20 experimentos STEAM para 6-10 años')
 
@@ -920,7 +920,7 @@ def build(experiments, outfile, subset=None, lead_magnet=False):
 def main():
     exps = parse_experiments(SRC)
     assert len(exps) == 20, 'Se esperaban 20 experimentos, hay %d' % len(exps)
-    full = os.path.join(OUTDIR, 'Laboratorio-Divergente-en-Casa.pdf')
+    full = os.path.join(OUTDIR, 'Laboratorio-Divergenio-en-Casa.pdf')
     lead = os.path.join(OUTDIR, 'Lead-Magnet-3-Experimentos.pdf')
     n1 = build(exps, full)
     n2 = build(exps, lead, subset={1, 9, 19}, lead_magnet=True)

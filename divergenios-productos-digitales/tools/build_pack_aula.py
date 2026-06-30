@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Maqueta el 'Pack Aula' de Laboratorio Divergente: edición docente con guía,
+Maqueta el 'Pack Aula' de Laboratorio Divergenio: edición docente con guía,
 rúbrica, póster A3 y licencia de centro. Complementa al producto base (20
 experimentos); juntos forman el Pack Aula multi-alumno.
-Genera: Pack-Aula-Laboratorio-Divergente.pdf
+Genera: Pack-Aula-Laboratorio-Divergenio.pdf
 Uso:  python3 build_pack_aula.py
 """
 import os
@@ -24,7 +24,7 @@ FONT, BOLD = L.FONT, L.BOLD
 para, para_h = L.para, L.para_h
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUTDIR = os.path.join(HERE, '..', '01-laboratorio-divergente-en-casa')
+OUTDIR = os.path.join(HERE, '..', '01-laboratorio-divergenio-en-casa')
 LICENSE = 'Licencia de centro · uso multi-alumno · Prohibida su reventa'
 
 
@@ -120,7 +120,7 @@ def page_cover(c):
     c.setFillColor(white)
     c.setFont(BOLD, 40)
     c.drawCentredString(W / 2, H * 0.48, 'Laboratorio')
-    c.drawCentredString(W / 2, H * 0.48 - 44, 'Divergente')
+    c.drawCentredString(W / 2, H * 0.48 - 44, 'Divergenio')
     c.setFont(BOLD, 20)
     c.setFillColor(B.BLUE)
     c.drawCentredString(W / 2, H * 0.48 - 78, 'Guía del docente')
@@ -130,7 +130,7 @@ def page_cover(c):
     c.setFont(FONT, 11)
     c.setFillColor(B.tint(white, 0))
     c.setFillColor(white)
-    c.drawCentredString(W / 2, H * 0.14, 'Complemento de "Laboratorio Divergente en Casa" · 20 experimentos')
+    c.drawCentredString(W / 2, H * 0.14, 'Complemento de "Laboratorio Divergenio en Casa" · 20 experimentos')
     c.setFont(BOLD, 16)
     c.drawCentredString(W / 2, H * 0.1, 'divergenios.com')
     c.showPage()
@@ -263,7 +263,7 @@ def page_rubric(c):
     diffs = [
         ('Más pequeños (5-6)', 'Céntrate en observar y describir; el adulto lee los pasos.', B.CIENCIA),
         ('Listos para más (8-10)', 'Que midan, anoten datos y repitan cambiando UNA variable.', B.BLUE),
-        ('Muy motivados', 'Convierte el "reto divergente" en un mini-proyecto de varios días.', B.MATES),
+        ('Muy motivados', 'Convierte el "reto divergenio" en un mini-proyecto de varios días.', B.MATES),
     ]
     for tit, d, col in diffs:
         c.setFillColor(B.tint(col, 0.9))
@@ -379,7 +379,7 @@ def page_license(c):
     c.setFont(FONT, 11)
     c.setFillColor(white)
     para(c, 'Para equipar a otro centro o a más profesorado externo, adquiere una licencia '
-         'adicional. Gracias por apoyar el aprendizaje divergente.',
+         'adicional. Gracias por apoyar el aprendizaje divergenio.',
          W / 2 - 220, H * 0.22, 440, FONT, 11, 16, white, align='center')
     c.setFont(BOLD, 18)
     c.drawCentredString(W / 2, H * 0.12, 'divergenios.com')
@@ -387,9 +387,9 @@ def page_license(c):
 
 
 def main():
-    out = os.path.join(OUTDIR, 'Pack-Aula-Laboratorio-Divergente.pdf')
+    out = os.path.join(OUTDIR, 'Pack-Aula-Laboratorio-Divergenio.pdf')
     c = canvas.Canvas(out, pagesize=A4)
-    c.setTitle('Laboratorio Divergente · Edición Aula (Guía del docente)')
+    c.setTitle('Laboratorio Divergenio · Edición Aula (Guía del docente)')
     c.setAuthor('divergenios.com')
     c.setSubject('Guía docente, rúbrica, póster A3 y licencia de centro')
     page_cover(c)

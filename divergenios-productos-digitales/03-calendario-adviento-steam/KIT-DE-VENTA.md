@@ -28,7 +28,7 @@ Este año, que la cuenta atrás más asombrosa empiece. **¿Abrimos la primera p
 
 ## Qué incluye
 
-- 🎁 **24 tarjetas de reto** (1 por día del 1 al 24 de diciembre), cada una con materiales, pasos, "La chispa" científica y un "Toque divergente" para seguir explorando.
+- 🎁 **24 tarjetas de reto** (1 por día del 1 al 24 de diciembre), cada una con materiales, pasos, "La chispa" científica y un "Toque divergenio" para seguir explorando.
 - 🔬 **Mix STEAM equilibrado:** química, física, ingeniería, pensamiento computacional sin pantallas, matemáticas y arte+ciencia, con dificultad señalada (🟢🟡🔴).
 - 🏠 **Guía para la familia y el aula** con instrucciones de uso, leyenda de iconos y consejos de seguridad.
 - 🖨️ **PDF imprimible optimizado en blanco y negro**, listo para imprimir y recortar como calendario o usar en digital.
@@ -63,4 +63,4 @@ Este año, que la cuenta atrás más asombrosa empiece. **¿Abrimos la primera p
 
 ## Nota de licencia
 
-Uso **personal y de aula** permitido: puedes imprimirlo y usarlo con tu familia o tu grupo de alumnos las veces que quieras. **Prohibida la reventa**, la redistribución del archivo y su publicación en otras webs o plataformas. Si un compañero docente o una familia lo quiere, comparte el enlace de **divergenios.com**, no el archivo. Gracias por apoyar el aprendizaje divergente. 💚
+Uso **personal y de aula** permitido: puedes imprimirlo y usarlo con tu familia o tu grupo de alumnos las veces que quieras. **Prohibida la reventa**, la redistribución del archivo y su publicación en otras webs o plataformas. Si un compañero docente o una familia lo quiere, comparte el enlace de **divergenios.com**, no el archivo. Gracias por apoyar el aprendizaje divergenio. 💚

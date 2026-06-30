@@ -1,5 +1,5 @@
 # 👩‍🏫 Guía del Adulto y del Docente
-### Cómo sacar el máximo a "Laboratorio Divergente en Casa"
+### Cómo sacar el máximo a "Laboratorio Divergenio en Casa"
 
 > Esta sección acompaña al cuaderno de 20 experimentos. En la versión familiar
 > es un anexo breve; en el **Pack Aula** se amplía con rúbricas y licencia de
@@ -85,7 +85,7 @@ Evalúa el **proceso**, no el resultado. Marca para cada alumno/grupo:
 - **10 min** — Montaje en grupos de 3-4 (un "jefe de material", un "anotador", un "científico jefe", un "comunicador").
 - **15 min** — Experimentación.
 - **10 min** — Rellenar el Cuaderno del Científico.
-- **10 min** — Puesta en común: cada grupo explica su "porqué" y su reto divergente.
+- **10 min** — Puesta en común: cada grupo explica su "porqué" y su reto divergenio.
 
 **Combos recomendados por sesión** (mismo material, sube la dificultad):
 - *Reacciones:* 1 → 6 (ambos producen CO₂).
@@ -99,7 +99,7 @@ Evalúa el **proceso**, no el resultado. Marca para cada alumno/grupo:
 
 - **Más pequeños (5-6):** céntrate en observar y describir; el adulto lee los pasos.
 - **Listos para más (8-10):** que **midan**, anoten datos y repitan cambiando UNA variable (introducción al control de variables).
-- **Muy motivados:** convierte el "Reto divergente" en un mini-proyecto de varios días.
+- **Muy motivados:** convierte el "Reto divergenio" en un mini-proyecto de varios días.
 
 ---
 

@@ -52,9 +52,9 @@ internos (para el índice) y exportar PDF de impresión.
 ---
 
 ## Entregables finales de esta carpeta
-1. `Laboratorio-Divergente-en-Casa.pdf` (producto, ~30-40 págs).
+1. `Laboratorio-Divergenio-en-Casa.pdf` (producto, ~30-40 págs).
 2. `Lead-Magnet-3-Experimentos.pdf` (gratis, captación).
-3. `Pack-Aula-Laboratorio-Divergente.pdf` (versión docente).
+3. `Pack-Aula-Laboratorio-Divergenio.pdf` (versión docente).
 4. Mockups (`/mockups/*.png`).
 
 > El texto fuente de los 3 está en `PRODUCTO.md` y `GUIA-ADULTO-Y-DOCENTE.md`.

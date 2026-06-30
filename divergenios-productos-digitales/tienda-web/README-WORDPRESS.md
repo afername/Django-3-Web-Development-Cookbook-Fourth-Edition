@@ -32,10 +32,10 @@ WordPress.com y te ahorra el lío del IVA. Pasas a WooCommerce más adelante si 
 
 ### Cómo crear cada producto en la pasarela (vale para todas)
 1. Crea una cuenta y conecta tu banco / Stripe / PayPal.
-2. "Nuevo producto" → tipo **digital / descargable** → sube el PDF (p. ej. `Laboratorio-Divergente-en-Casa.pdf`).
+2. "Nuevo producto" → tipo **digital / descargable** → sube el PDF (p. ej. `Laboratorio-Divergenio-en-Casa.pdf`).
 3. Pon nombre, precio (ver tabla de abajo) y activa la **entrega automática por email**.
 4. Copia la **URL de compra** (o el botón/checkout overlay). Repite por producto.
-5. Para el **Club Divergente**, crea un producto de **suscripción** (9 €/mes).
+5. Para el **Club Divergenio**, crea un producto de **suscripción** (9 €/mes).
 
 ---
 
@@ -45,13 +45,13 @@ El archivo tiene marcadores `REEMPLAZA_...` donde van tus enlaces. Busca y susti
 
 | Marcador en index.html | Sustitúyelo por… | Precio sugerido |
 |------------------------|------------------|-----------------|
-| `REEMPLAZA_ENLACE_PAGO_LAB` | URL de compra de *Laboratorio Divergente* | 14 € |
+| `REEMPLAZA_ENLACE_PAGO_LAB` | URL de compra de *Laboratorio Divergenio* | 14 € |
 | `REEMPLAZA_ENLACE_PAGO_ING` | URL de *Retos de Ingeniería* | 11 € |
 | `REEMPLAZA_ENLACE_PAGO_ADVIENTO` | URL de *Calendario de Adviento* | 9 € (estacional) |
 | `REEMPLAZA_ENLACE_PAGO_ROBOT` | URL de *Tu primer robot* | 59 € |
 | `REEMPLAZA_ENLACE_PAGO_AULA` | URL de *Pack Aula* | 49 € |
 | `REEMPLAZA_ENLACE_SUSCRIPCION_CLUB` | URL de suscripción del *Club* | 9 €/mes |
-| `REEMPLAZA_ENLACE_PAGO_BUNDLE` | URL del *Pack Divergente* (los 3) | 27 € |
+| `REEMPLAZA_ENLACE_PAGO_BUNDLE` | URL del *Pack Divergenio* (los 3) | 27 € |
 | `REEMPLAZA_CON_TU_FORMULARIO_DE_EMAIL` | `action` de tu formulario de email (ver §4) | — |
 
 > Truco: muchas pasarelas dan un enlace que abre el checkout en una ventana superpuesta
@@ -93,7 +93,7 @@ El formulario de la sección "Descarga gratis" captura el email. Para que funcio
    (o sustituye el formulario por el *embed* que te dé tu proveedor).
 3. **Entrega del regalo:** configura un **email de bienvenida automático** que envíe el
    enlace de descarga del PDF de muestra. Usa los lead magnets ya generados:
-   - `01-laboratorio-divergente-en-casa/Lead-Magnet-3-Experimentos.pdf`
+   - `01-laboratorio-divergenio-en-casa/Lead-Magnet-3-Experimentos.pdf`
    - (o el del producto que quieras regalar)
 4. **Alternativa nativa:** si estás en WordPress.com, usa el **bloque de Formulario de
    Jetpack**; recibirás los emails y podrás responder con el enlace, o conectarlo a tu
@@ -130,13 +130,13 @@ El formulario de la sección "Descarga gratis" captura el email. Para que funcio
 
 | Producto | Precio | Comprador |
 |----------|--------|-----------|
-| Laboratorio Divergente en Casa | 14 € | Familia + docente |
-| Retos de Ingeniería Divergente | 11 € | Familia + docente |
+| Laboratorio Divergenio en Casa | 14 € | Familia + docente |
+| Retos de Ingeniería Divergenio | 11 € | Familia + docente |
 | Calendario de Adviento STEAM | 9 € | Familia (estacional) |
 | Tu primer robot (mini-curso) | 59 € | Familia + extraescolares |
 | Pack Aula (licencia de centro) | 49 € | Colegios |
-| Club Divergente (membresía) | 9 €/mes | Familia |
-| **Pack Divergente** (3 imprimibles) | **27 €** | Familia + aula |
+| Club Divergenio (membresía) | 9 €/mes | Familia |
+| **Pack Divergenio** (3 imprimibles) | **27 €** | Familia + aula |
 
 > Cuando tengas los enlaces de compra reales y me digas tu plan de WordPress.com y tu
 > pasarela elegida, puedo dejarte el `index.html` con los enlaces ya insertados y, si vas

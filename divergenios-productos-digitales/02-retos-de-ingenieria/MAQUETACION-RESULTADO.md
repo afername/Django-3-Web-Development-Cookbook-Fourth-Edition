@@ -7,7 +7,7 @@ logo oficial. Se genera con un script, así que es regenerable en segundos.
 
 | Archivo | Qué es | Páginas |
 |---------|--------|--------:|
-| `Retos-de-Ingenieria-Divergente.pdf` | Producto completo, listo para vender | 24 |
+| `Retos-de-Ingenieria-Divergenio.pdf` | Producto completo, listo para vender | 24 |
 | `Lead-Magnet-3-Retos.pdf` | Muestra gratis (retos 1, 7 y 16) para captación | 8 |
 
 Incluye: portada, carta de bienvenida, **póster del ciclo de diseño** (pregunta →
@@ -38,7 +38,7 @@ python3 build_eng_pdf.py     # escribe los 2 PDF en esta carpeta
 
 ## Estrategia de bundle
 
-Pensado para venderse **junto al Producto 1** (Laboratorio Divergente). Las
+Pensado para venderse **junto al Producto 1** (Laboratorio Divergenio). Las
 contraportadas de ambos se enlazan entre sí (cross-sell). Bundle sugerido de los dos.
 
 ## Pendiente (opcional, antes de publicar)

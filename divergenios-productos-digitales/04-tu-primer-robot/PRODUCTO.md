@@ -7,7 +7,7 @@
 
 ## 🪄 Bienvenida (carta para la familia y el cole)
 
-¡Hola, explorador o exploradora divergente! ¿Sabes que para crear un robot no necesitas cables, ni pilas, ni una sola pantalla? Lo que de verdad necesitas está dentro de tu cabeza: la capacidad de **pensar con orden y dar instrucciones clarísimas**. En este mini-curso vas a descubrir que programar no es teclear cosas raras, sino algo mucho más divertido: convertir una idea grande en pasitos pequeños que cualquiera (¡incluso un robot!) pueda seguir.
+¡Hola, explorador o exploradora divergenio! ¿Sabes que para crear un robot no necesitas cables, ni pilas, ni una sola pantalla? Lo que de verdad necesitas está dentro de tu cabeza: la capacidad de **pensar con orden y dar instrucciones clarísimas**. En este mini-curso vas a descubrir que programar no es teclear cosas raras, sino algo mucho más divertido: convertir una idea grande en pasitos pequeños que cualquiera (¡incluso un robot!) pueda seguir.
 
 Aquí vas a "construir" y "programar" robots usando juegos, tarjetas de papel, tizas en el suelo y hasta tu propio cuerpo. Un día serás el programador, otro día serás el robot, y siempre habrá un adulto ayudante a tu lado para jugar contigo. Vas a aprender de verdad las mismas ideas que usan los ingenieros que programan cohetes y videojuegos —algoritmos, bucles, condicionales—, pero a tu manera: tocando, moviéndote y riendo. Porque cuando entiendes **el porqué** de las cosas, se quedan contigo para siempre.
 
@@ -21,7 +21,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 - Cada lección tiene **un vídeo corto** (un facilitador enseña la idea con un juego) **+ una actividad imprimible SIN pantallas** para hacer con las manos y el cuerpo.
 - **En casa:** una lección por día o por tarde; busca un suelo libre y juega. **En el aula:** funciona genial por parejas o en grupos pequeños; el "robot" puede ser un compañero.
 - 🛡️ **Seguridad primero:** jugaremos moviéndonos por el suelo. Despeja el espacio, quita obstáculos, camina (no corras) y usa siempre tijeras de punta redonda con un adulto cerca.
-- **Leyenda de iconos de dificultad:** 🟢 fácil · 🟡 un poquito más de reto · 🔴 ¡superdesafío divergente!
+- **Leyenda de iconos de dificultad:** 🟢 fácil · 🟡 un poquito más de reto · 🔴 ¡superdesafío divergenio!
 - **Materiales caseros para todo el curso (ten a mano):**
   - Papel o cartulina y rotuladores/lápices para hacer **tarjetas de flechas**.
   - **Tiza, cinta de pintor o cuerda** para dibujar una cuadrícula en el suelo.
@@ -41,7 +41,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Tu cuaderno, lápiz y objetos de casa para observar.
 🎯 **Actividad sin pantallas:** Sé un "cazador de robots". Recorre tu casa y dibuja en el cuaderno 3 máquinas que sigan instrucciones. Al lado de cada una, escribe o dibuja **una orden** que recibe (ejemplo: el microondas → "calienta 1 minuto"). Luego rodea: ¿quién manda, la máquina o la persona?
 🤯 **La idea:** Un **robot** no piensa por sí mismo: solo **ejecuta instrucciones** que una persona le dio. Programar es darle esas instrucciones. ¡El cerebro listo es el tuyo!
-✨ **Reto divergente:** ¿Tu cuerpo es un robot? ¿Quién te da las instrucciones a ti? ¿Y siempre las sigues igual que una máquina?
+✨ **Reto divergenio:** ¿Tu cuerpo es un robot? ¿Quién te da las instrucciones a ti? ¿Y siempre las sigues igual que una máquina?
 
 ### Lección 2. 📜 El algoritmo mágico (tu receta de pasos)
 **Módulo:** Fundamentos · **Tiempo:** 15 min · 🟢
@@ -49,7 +49,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Cuaderno y lápiz.
 🎯 **Actividad sin pantallas:** Inventa el "algoritmo de lavarte los dientes". Escribe o dibuja los pasos numerados (1, 2, 3...) en tu cuaderno. Después, pide a tu adulto ayudante que los siga **al pie de la letra**, ¡sin adivinar nada! Si se ríe porque falta un paso, lo arreglas y lo numeras de nuevo.
 🤯 **La idea:** Un **algoritmo** es una lista de pasos, en orden, para resolver una tarea. Las recetas, los mapas y los videojuegos están hechos de algoritmos.
-✨ **Reto divergente:** ¿Puedes escribir el algoritmo más corto para hacer algo? ¿Y el más largo y disparatado para lo mismo?
+✨ **Reto divergenio:** ¿Puedes escribir el algoritmo más corto para hacer algo? ¿Y el más largo y disparatado para lo mismo?
 
 ### Lección 3. 🥪 El robot humano y el sándwich loco
 **Módulo:** Fundamentos · **Tiempo:** 20 min · 🟡
@@ -57,7 +57,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Un adulto que haga de robot (o un peluche imaginario), cuaderno y lápiz. (Opcional: pan y un alimento untable de verdad, con supervisión.)
 🎯 **Actividad sin pantallas:** Tú eres el programador y tu adulto es el **robot humano**. Dale instrucciones de una en una para hacer algo sencillo (un sándwich, una torre de cojines). El robot hará SOLO lo que digas, tal cual. Cuando algo salga gracioso, corrige la orden para que sea más exacta.
 🤯 **La idea:** Las **instrucciones exactas** importan: un robot no adivina ni rellena los huecos. Hay que decirle cada pequeño detalle, en el orden correcto.
-✨ **Reto divergente:** ¿Qué instrucción te salió "demasiado lista"? Pártela en dos o tres pasos más pequeños para que un robot la entienda.
+✨ **Reto divergenio:** ¿Qué instrucción te salió "demasiado lista"? Pártela en dos o tres pasos más pequeños para que un robot la entienda.
 
 ### Lección 4. 🔢 Primero esto, luego aquello: la secuencia
 **Módulo:** Fundamentos · **Tiempo:** 15 min · 🟢
@@ -65,7 +65,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** 4-6 trozos de papel y lápiz para hacer tarjetas-dibujo.
 🎯 **Actividad sin pantallas:** Elige una rutina (vestirse, plantar una semilla, montar un bocadillo). Dibuja cada paso en una tarjeta. Mézclalas, ¡y ahora colócalas en el orden correcto de izquierda a derecha! Prueba a ponerlas mal a propósito y mira qué pasaría.
 🤯 **La idea:** Una **secuencia** es el orden de los pasos. En programación, hacer las cosas en el orden correcto es tan importante como los pasos en sí.
-✨ **Reto divergente:** ¿Hay rutinas donde dos pasos dan igual el orden? ¿Y pasos que SIEMPRE tienen que ir antes que otro?
+✨ **Reto divergenio:** ¿Hay rutinas donde dos pasos dan igual el orden? ¿Y pasos que SIEMPRE tienen que ir antes que otro?
 
 ## Módulo 2: Programar movimientos
 
@@ -75,7 +75,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Tiza o cinta para una cuadrícula (3x3 o 4x4), papel para recortar tarjetas de flechas (incluidas en el cuaderno), una ficha o un compañero-robot.
 🎯 **Actividad sin pantallas:** Dibuja tu cuadrícula en el suelo. Coloca tu robot (ficha o persona) en una casilla y pon una meta en otra. Ordena tarjetas de flechas para llevarlo del inicio a la meta. Luego "ejecuta el programa": lee las flechas una a una y mueve el robot.
 🤯 **La idea:** Las flechas son **comandos**: símbolos sencillos que representan una orden. Un conjunto de comandos en orden es un **programa**.
-✨ **Reto divergente:** ¿Puedes diseñar un programa que pase por una casilla con una "moneda" antes de llegar a la meta?
+✨ **Reto divergenio:** ¿Puedes diseñar un programa que pase por una casilla con una "moneda" antes de llegar a la meta?
 
 ### Lección 6. 🧭 Importa hacia dónde miras (girar no es moverse)
 **Módulo:** Programar movimientos · **Tiempo:** 20 min · 🟡
@@ -83,7 +83,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Cuadrícula del suelo, tarjetas de flechas, robot con una "nariz" marcada (pegatina o gorra).
 🎯 **Actividad sin pantallas:** Juega a "Simón el robot". Tú das una orden (gira a la derecha / avanza) y el robot la hace despacito, recordando siempre hacia dónde mira. Marca con tiza por dónde pasa. ¿Acabó mirando hacia donde querías?
 🤯 **La idea:** La **orientación** (hacia dónde mira el robot) cambia el resultado de "avanzar". Girar prepara la dirección; avanzar mueve. Pensar desde el punto de vista del robot se llama "ponerse en sus zapatos".
-✨ **Reto divergente:** Da la espalda a la meta y, solo con giros y avances, intenta llegar. ¿Cuántos giros necesitaste?
+✨ **Reto divergenio:** Da la espalda a la meta y, solo con giros y avances, intenta llegar. ¿Cuántos giros necesitaste?
 
 ### Lección 7. 🐞 ¡A cazar el bug! (depurar errores)
 **Módulo:** Programar movimientos · **Tiempo:** 20 min · 🟡
@@ -91,7 +91,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Cuadrícula, tarjetas de flechas, robot, cuaderno.
 🎯 **Actividad sin pantallas:** En tu cuaderno hay un programa de flechas con un error escondido. Coloca tu robot y "ejecuta" el programa paso a paso. Cuando algo falle, detente, busca la tarjeta culpable, cámbiala y vuelve a probar desde el principio.
 🤯 **La idea:** Un **bug** es un error en el programa. **Depurar** es buscar el error, arreglarlo y volver a probar. Los programadores depuran todo el tiempo: ¡el error no es un fracaso, es una pista!
-✨ **Reto divergente:** Esconde tú un bug en un programa y reta a tu adulto ayudante a encontrarlo. ¿Lo caza rápido?
+✨ **Reto divergenio:** Esconde tú un bug en un programa y reta a tu adulto ayudante a encontrarlo. ¿Lo caza rápido?
 
 ### Lección 8. ✨ El camino más listo (eficiencia)
 **Módulo:** Programar movimientos · **Tiempo:** 20 min · 🟡
@@ -99,7 +99,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Cuadrícula, tarjetas de flechas, robot, cuaderno.
 🎯 **Actividad sin pantallas:** Resuelve un recorrido de tu cuaderno con las tarjetas que quieras. Cuenta cuántas usaste y apúntalo. Ahora, ¡intenta lograrlo con MENOS tarjetas! Tacha pasos que no hacían falta o busca un atajo. Anota tu mejor récord.
 🤯 **La idea:** La **eficiencia** es resolver un problema con los menos pasos posibles. Un programa más corto suele ser más rápido y más fácil de entender.
-✨ **Reto divergente:** ¿Existe un camino imposible de acortar? Dibuja una cuadrícula donde solo haya UNA solución corta posible.
+✨ **Reto divergenio:** ¿Existe un camino imposible de acortar? Dibuja una cuadrícula donde solo haya UNA solución corta posible.
 
 ## Módulo 3: Ideas potentes
 
@@ -109,7 +109,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Cuadrícula, tarjetas de flechas, una tarjeta especial de "repetir", cuaderno.
 🎯 **Actividad sin pantallas:** Programa al robot para hacer un cuadrado en el suelo. Primero hazlo con todas las flechas. Luego fíjate: ¿qué grupo de pasos se repite? Cámbialo por una tarjeta "repetir x4". ¡Mismo recorrido, muchas menos tarjetas!
 🤯 **La idea:** Un **bucle** repite un grupo de instrucciones varias veces sin escribirlas una y otra vez. Sirve para tareas que se repiten, como dar la vuelta a un cuadrado.
-✨ **Reto divergente:** ¿Qué cosas de tu día son bucles? (Lavar plato tras plato, dar saltos a la comba...) Dibuja uno con su "x cuántas veces".
+✨ **Reto divergenio:** ¿Qué cosas de tu día son bucles? (Lavar plato tras plato, dar saltos a la comba...) Dibuja uno con su "x cuántas veces".
 
 ### Lección 10. ❓ Si... entonces... (los condicionales)
 **Módulo:** Ideas potentes · **Tiempo:** 20 min · 🟡
@@ -117,7 +117,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Cuadrícula, fichas o tapones como "obstáculos/charcos", tarjetas de flechas, cuaderno.
 🎯 **Actividad sin pantallas:** Coloca un par de "charcos" (tapones) en casillas de la cuadrícula. La regla es: SI el robot tiene un charco justo delante, ENTONCES gira; SI NO, avanza. Mueve al robot siguiendo esa regla en cada casilla hasta llegar a la meta. ¡El robot decide solo!
 🤯 **La idea:** Un **condicional** ("si... entonces...") hace que el programa elija entre dos caminos según una condición. Es como un cruce: el robot mira y decide.
-✨ **Reto divergente:** Inventa un condicional con TRES opciones: "si rojo... / si azul... / si no, ...". ¿Funciona en tu cuadrícula con fichas de colores?
+✨ **Reto divergenio:** Inventa un condicional con TRES opciones: "si rojo... / si azul... / si no, ...". ¿Funciona en tu cuadrícula con fichas de colores?
 
 ### Lección 11. 🧩 Trocear el problema (descomposición)
 **Módulo:** Ideas potentes · **Tiempo:** 20 min · 🟡
@@ -125,7 +125,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Cuaderno y lápiz.
 🎯 **Actividad sin pantallas:** Elige una misión grande (preparar tu mochila, montar una merienda). En el cuaderno, dibújala en el centro y rodéala de "trocitos" más pequeños, como los pétalos de una flor. Cada pétalo es una mini-tarea fácil de hacer.
 🤯 **La idea:** La **descomposición** es partir un problema grande en problemas pequeños y manejables. Es uno de los superpoderes de los programadores: nada es demasiado difícil si lo troceas.
-✨ **Reto divergente:** Coge uno de tus trocitos... ¿se puede trocear todavía MÁS? ¿Hasta dónde puedes dividirlo?
+✨ **Reto divergenio:** Coge uno de tus trocitos... ¿se puede trocear todavía MÁS? ¿Hasta dónde puedes dividirlo?
 
 ### Lección 12. 🏷️ Pasos con nombre (las funciones)
 **Módulo:** Ideas potentes · **Tiempo:** 20 min · 🟡
@@ -133,7 +133,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Cuadrícula, tarjetas de flechas, una tarjeta en blanco para nombrar tu función, cuaderno.
 🎯 **Actividad sin pantallas:** Junta un grupo de 2-3 flechas que uses mucho y dale un nombre divertido en una tarjeta nueva (por ejemplo "SALTO-L"). Cada vez que muestres esa tarjeta, el robot hace todos esos pasos de golpe. Construye un recorrido usando tu función al menos dos veces.
 🤯 **La idea:** Una **función** es un grupo de pasos con un nombre. La creas una vez y la usas muchas, sin repetir. ¡Como guardar tu truco favorito en un botón!
-✨ **Reto divergente:** Crea una función que use otra función dentro. ¿Puede "CUADRADO" estar hecho de cuatro "ESQUINA"?
+✨ **Reto divergenio:** Crea una función que use otra función dentro. ¿Puede "CUADRADO" estar hecho de cuatro "ESQUINA"?
 
 ## Módulo 4: Proyecto final
 
@@ -143,7 +143,7 @@ Familias y profes: este curso enseña pensamiento computacional real **sin ningu
 🧰 **Necesitas:** Tiza o cinta para el laberinto, fichas/objetos como paredes, tarjetas de flechas, tu tarjeta de función y de bucle, un compañero-robot (persona o muñeco), el diploma imprimible.
 🎯 **Actividad sin pantallas:** 1) Diseña tu laberinto en el suelo con un inicio y una meta. 2) Descompón el camino en tramos. 3) Programa las flechas (¡usa un bucle o tu función si puedes!). 4) Ejecuta moviendo al compañero-robot. 5) Si hay un bug, depura y vuelve a probar. 6) ¡Al llegar a la meta, celebra y rellena tu diploma!
 🤯 **La idea:** Un **proyecto** real junta muchas ideas a la vez: algoritmo, secuencia, bucles, funciones, condicionales y depuración. ¡Así trabajan los programadores de verdad!
-✨ **Reto divergente:** Diseña un laberinto para que lo resuelva otra persona... ¡y crea un programa "tramposo" con un bug para que tenga que cazarlo!
+✨ **Reto divergenio:** Diseña un laberinto para que lo resuelva otra persona... ¡y crea un programa "tramposo" con un bug para que tenga que cazarlo!
 
 ---
 

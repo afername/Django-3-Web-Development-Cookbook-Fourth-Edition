@@ -1,4 +1,4 @@
-# 🔬 Laboratorio Divergente en Casa
+# 🔬 Laboratorio Divergenio en Casa
 ### 20 experimentos STEAM para mentes curiosas · 6-10 años
 
 > _Aprender es divertido._ · **divergenios.com**
@@ -18,7 +18,7 @@ Cada experimento tiene tres partes mágicas:
 
 1. **👣 Paso a paso** — qué hacer, con dibujos mentales fáciles.
 2. **🤯 ¿Qué pasó?** — la ciencia explicada para que de verdad la entiendas.
-3. **🚀 Reto divergente** — la pregunta que convierte a un curioso en un científico.
+3. **🚀 Reto divergenio** — la pregunta que convierte a un curioso en un científico.
 
 No hay forma de hacerlo "mal". Si algo no sale como esperabas… ¡acabas de
 descubrir algo! Eso también es ciencia.
@@ -56,7 +56,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 1. 🌋 El volcán que ruge
 **Área:** Ciencia (Química) · **Tiempo:** 15 min · **Dificultad:** 🟢 · 🌈
 
-❓ **Pregunta divergente:** ¿Cómo puede un líquido transparente convertirse en una montaña de espuma rugiente?
+❓ **Pregunta divergenio:** ¿Cómo puede un líquido transparente convertirse en una montaña de espuma rugiente?
 
 🧰 **Necesitas:** bicarbonato (2 cucharadas), vinagre (medio vaso), un vaso o botella pequeña, una bandeja, colorante rojo (opcional), un chorrito de jabón lavavajillas.
 
@@ -68,7 +68,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** El vinagre es un **ácido** y el bicarbonato una **base**. Cuando se juntan reaccionan y fabrican un gas llamado **dióxido de carbono (CO₂)**, el mismo de los refrescos. El gas necesita salir y empuja el líquido jabonoso hacia arriba: ¡por eso hace tanta espuma!
 
-🚀 **Reto divergente:** ¿Con más bicarbonato la erupción es más grande… o hay un punto en que ya da igual? Prueba con 1, 2 y 4 cucharadas y compara.
+🚀 **Reto divergenio:** ¿Con más bicarbonato la erupción es más grande… o hay un punto en que ya da igual? Prueba con 1, 2 y 4 cucharadas y compara.
 
 🗣️ **Pregunta de oro (adulto):** "¿De dónde sale la espuma si antes no había nada?"
 
@@ -77,7 +77,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 2. 🥛 La leche que pinta sola
 **Área:** Ciencia (Química + Física) · **Tiempo:** 10 min · **Dificultad:** 🟢 · 🌈
 
-❓ **Pregunta divergente:** ¿Puede un poco de jabón "asustar" a los colores y hacerlos correr?
+❓ **Pregunta divergenio:** ¿Puede un poco de jabón "asustar" a los colores y hacerlos correr?
 
 🧰 **Necesitas:** un plato hondo, leche entera (cuanta más grasa, mejor), colorantes de varios colores, jabón lavavajillas, un bastoncillo de algodón.
 
@@ -89,7 +89,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** La leche tiene una "piel" invisible en la superficie por la **tensión superficial**. El jabón la rompe y, además, persigue a la grasa de la leche. Al moverse el jabón y la grasa, arrastran los colores en una explosión de fuegos artificiales.
 
-🚀 **Reto divergente:** Prueba con leche desnatada y con agua. ¿Funciona igual? ¿Por qué crees que la grasa es importante?
+🚀 **Reto divergenio:** Prueba con leche desnatada y con agua. ¿Funciona igual? ¿Por qué crees que la grasa es importante?
 
 🗣️ **Pregunta de oro:** "El jabón no tiene color… entonces, ¿quién mueve los colores?"
 
@@ -98,7 +98,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 3. 🔮 El indicador mágico de la lombarda (mensajes que cambian de color)
 **Área:** Ciencia (Química, pH) · **Tiempo:** 30 min · **Dificultad:** 🔴 (el adulto hierve) · 🌈
 
-❓ **Pregunta divergente:** ¿Puede una verdura saber si algo es ácido o no?
+❓ **Pregunta divergenio:** ¿Puede una verdura saber si algo es ácido o no?
 
 🧰 **Necesitas:** unas hojas de col lombarda (repollo morado), agua caliente (la prepara el adulto), un colador, vasos transparentes, vinagre, bicarbonato disuelto en agua, zumo de limón, agua con sal.
 
@@ -110,7 +110,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** La lombarda tiene un pigmento (la **antocianina**) que cambia de color según el **pH**: se vuelve **rosa/rojo con los ácidos** (vinagre, limón) y **azul/verde con las bases** (bicarbonato). ¡Es un detector de ácidos natural!
 
-🚀 **Reto divergente:** Crea una "escala de color" del más ácido al más básico con todo lo que encuentres en casa (refresco, leche, agua con jabón). ¿Cuál es el más ácido?
+🚀 **Reto divergenio:** Crea una "escala de color" del más ácido al más básico con todo lo que encuentres en casa (refresco, leche, agua con jabón). ¿Cuál es el más ácido?
 
 🗣️ **Pregunta de oro:** "Si el color nos avisa, ¿qué nos está intentando 'decir' la lombarda?"
 
@@ -119,7 +119,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 4. 🌈 Cromatografía: los colores escondidos en un rotulador
 **Área:** Ciencia (Química) + Arte · **Tiempo:** 20 min · **Dificultad:** 🟢
 
-❓ **Pregunta divergente:** ¿El negro es de verdad… negro? ¿O esconde otros colores dentro?
+❓ **Pregunta divergenio:** ¿El negro es de verdad… negro? ¿O esconde otros colores dentro?
 
 🧰 **Necesitas:** filtros de café o papel de cocina, rotuladores lavables (¡no permanentes!), un vaso con un dedo de agua, pinzas o celo.
 
@@ -130,7 +130,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** La tinta negra es en realidad una **mezcla de colores**. El agua sube por el papel y arrastra las tintas; las más ligeras viajan más lejos y las más pesadas se quedan atrás. Se separan en una banda de colores. Esto se llama **cromatografía** y los científicos la usan de verdad para saber qué hay dentro de una mezcla.
 
-🚀 **Reto divergente:** Prueba marrón, morado y verde. ¿Cuál esconde más colores? Haz una "huella dactilar" de cada rotulador.
+🚀 **Reto divergenio:** Prueba marrón, morado y verde. ¿Cuál esconde más colores? Haz una "huella dactilar" de cada rotulador.
 
 🗣️ **Pregunta de oro:** "Si separas los colores… ¿podrías volver a juntarlos?"
 
@@ -139,7 +139,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 5. 💎 La fábrica de cristales
 **Área:** Ciencia (Química) · **Tiempo:** 15 min + varios días de espera · **Dificultad:** 🟡
 
-❓ **Pregunta divergente:** ¿Puede el agua "fabricar" piedras preciosas mientras duermes?
+❓ **Pregunta divergenio:** ¿Puede el agua "fabricar" piedras preciosas mientras duermes?
 
 🧰 **Necesitas:** agua muy caliente (adulto), sal o azúcar (mucha), un frasco, un cordón o limpiapipas, un lápiz, paciencia.
 
@@ -150,7 +150,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** El agua caliente puede llevar mucha más sal disuelta que la fría. Al enfriarse y **evaporarse**, el agua ya no puede sujetar tanta sal, así que esta se va pegando al cordón formando **cristales** con formas geométricas. ¡Crecen solos!
 
-🚀 **Reto divergente:** Haz un frasco con sal y otro con azúcar. ¿Los cristales tienen la misma forma? Obsérvalos con una lupa.
+🚀 **Reto divergenio:** Haz un frasco con sal y otro con azúcar. ¿Los cristales tienen la misma forma? Obsérvalos con una lupa.
 
 🗣️ **Pregunta de oro:** "¿De dónde sale el cristal si solo había agua con sal?"
 
@@ -159,7 +159,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 6. 🎈 El globo que se infla solo (con bichitos vivos)
 **Área:** Ciencia (Biología + Química) · **Tiempo:** 10 min + 30-60 min de espera · **Dificultad:** 🟡
 
-❓ **Pregunta divergente:** ¿Pueden unos seres vivos diminutos inflar un globo por ti?
+❓ **Pregunta divergenio:** ¿Pueden unos seres vivos diminutos inflar un globo por ti?
 
 🧰 **Necesitas:** una botella pequeña, levadura de panadería (un sobre), 2 cucharadas de azúcar, agua tibia, un globo.
 
@@ -170,7 +170,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** La levadura son **hongos vivos** (¡microorganismos!). Cuando comen azúcar, sueltan gas **CO₂**, igual que nosotros soltamos aire al respirar. Ese gas no tiene por dónde escapar… así que infla el globo. A esto se le llama **fermentación**, ¡y es lo que hace que el pan suba!
 
-🚀 **Reto divergente:** ¿Y con agua fría o sin azúcar? Prueba y descubre qué necesitan los "bichitos" para trabajar.
+🚀 **Reto divergenio:** ¿Y con agua fría o sin azúcar? Prueba y descubre qué necesitan los "bichitos" para trabajar.
 
 🗣️ **Pregunta de oro:** "¿El globo se infla con magia o hay algo comiendo ahí dentro?"
 
@@ -181,7 +181,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 7. 🤖 Programa a tu robot humano
 **Área:** Tecnología (algoritmos) · **Tiempo:** 20 min · **Dificultad:** 🟢
 
-❓ **Pregunta divergente:** ¿Cómo le explicas a un robot que no piensa cómo hacerte un sándwich?
+❓ **Pregunta divergenio:** ¿Cómo le explicas a un robot que no piensa cómo hacerte un sándwich?
 
 🧰 **Necesitas:** un adulto dispuesto a hacer de robot, papel y lápiz, los ingredientes de un sándwich (pan, algo de untar).
 
@@ -192,7 +192,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** Acabas de escribir un **algoritmo**: una lista de pasos exactos y ordenados. Los ordenadores y robots solo hacen lo que les dices, en el orden que se lo dices. Si te saltas un paso o no eres claro, ¡aparece un **bug** (error)! Programar es, sobre todo, **pensar con orden**.
 
-🚀 **Reto divergente:** Programa al robot para que vaya de la puerta a la silla usando solo "adelante 1 paso", "gira a la derecha", "gira a la izquierda". ¿Cuántas instrucciones necesitas?
+🚀 **Reto divergenio:** Programa al robot para que vaya de la puerta a la silla usando solo "adelante 1 paso", "gira a la derecha", "gira a la izquierda". ¿Cuántas instrucciones necesitas?
 
 🗣️ **Pregunta de oro:** "¿El robot se equivocó… o le diste mal las instrucciones?"
 
@@ -201,7 +201,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 8. 🟦 Pixel art: dibuja como un ordenador
 **Área:** Tecnología (representación de datos) + Arte + Matemáticas · **Tiempo:** 20 min · **Dificultad:** 🟢
 
-❓ **Pregunta divergente:** ¿Cómo guarda un ordenador un dibujo si por dentro solo entiende casillas y números?
+❓ **Pregunta divergenio:** ¿Cómo guarda un ordenador un dibujo si por dentro solo entiende casillas y números?
 
 🧰 **Necesitas:** papel cuadriculado, rotuladores o lápices de colores.
 
@@ -212,7 +212,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** Las pantallas están hechas de millones de puntitos llamados **píxeles**. Cada imagen es, en el fondo, una **cuadrícula de colores** que se puede describir con números. Acabas de hacer lo mismo que hace un ordenador para guardar una foto: convertir un dibujo en **datos**.
 
-🚀 **Reto divergente:** Intercambia tus instrucciones con alguien y dibujad el del otro "a ciegas". ¿Salió igual? Si no, ¿faltaba algún dato?
+🚀 **Reto divergenio:** Intercambia tus instrucciones con alguien y dibujad el del otro "a ciegas". ¿Salió igual? Si no, ¿faltaba algún dato?
 
 🗣️ **Pregunta de oro:** "¿Se puede dibujar con palabras y números en vez de con un lápiz?"
 
@@ -223,7 +223,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 9. 🍝 La torre imposible (espaguetis y malvaviscos)
 **Área:** Ingeniería (estructuras) · **Tiempo:** 25 min · **Dificultad:** 🟡
 
-❓ **Pregunta divergente:** ¿Qué forma hace que una torre alta no se caiga?
+❓ **Pregunta divergenio:** ¿Qué forma hace que una torre alta no se caiga?
 
 🧰 **Necesitas:** espaguetis crudos, malvaviscos (o plastilina/uvas pasas), una superficie.
 
@@ -234,7 +234,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** Los **triángulos** son la forma más fuerte: no se deforman como los cuadrados. Los ingenieros los usan en puentes, grúas y torres de verdad. Una base ancha y triángulos por todas partes = estructura estable.
 
-🚀 **Reto divergente:** ¿Cuál es la torre más alta que aguanta un malvavisco en la punta? Esto es el famoso "Marshmallow Challenge" que hacen ingenieros de todo el mundo.
+🚀 **Reto divergenio:** ¿Cuál es la torre más alta que aguanta un malvavisco en la punta? Esto es el famoso "Marshmallow Challenge" que hacen ingenieros de todo el mundo.
 
 🗣️ **Pregunta de oro:** "¿Por qué crees que las grúas están llenas de triángulos?"
 
@@ -243,7 +243,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 10. 🌉 El puente de papel que aguanta libros
 **Área:** Ingeniería (resistencia y forma) · **Tiempo:** 15 min · **Dificultad:** 🟢
 
-❓ **Pregunta divergente:** ¿Cómo puede una simple hoja de papel sujetar un peso sin doblarse?
+❓ **Pregunta divergenio:** ¿Cómo puede una simple hoja de papel sujetar un peso sin doblarse?
 
 🧰 **Necesitas:** varias hojas de papel iguales, 2 vasos (los pilares), monedas o un librito como peso.
 
@@ -254,7 +254,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** El papel plano se dobla fácil. Pero al plegarlo en **acordeón** creas muchas "vigas" pequeñas que reparten el peso. La **forma** importa más que el material: por eso el cartón de los paquetes es ondulado por dentro y los tejados tienen vigas en zig-zag.
 
-🚀 **Reto divergente:** Prueba otras formas: un tubo, una "V", una "U". ¿Cuál aguanta más peso con la misma hoja?
+🚀 **Reto divergenio:** Prueba otras formas: un tubo, una "V", una "U". ¿Cuál aguanta más peso con la misma hoja?
 
 🗣️ **Pregunta de oro:** "Si el papel es el mismo… ¿qué cambió para que ahora aguante?"
 
@@ -263,7 +263,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 11. 🪧 La catapulta saltarina
 **Área:** Ingeniería + Física (energía) · **Tiempo:** 20 min · **Dificultad:** 🟡
 
-❓ **Pregunta divergente:** ¿Cómo guardas energía en un palito para lanzar algo lejos?
+❓ **Pregunta divergenio:** ¿Cómo guardas energía en un palito para lanzar algo lejos?
 
 🧰 **Necesitas:** 7 palitos de helado, gomas elásticas, una cuchara de plástico, una bolita de papel o un pompón (¡nada duro!).
 
@@ -274,7 +274,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** Al bajar el palito y estirar la goma, guardas **energía elástica** (energía "en espera"). Al soltar, esa energía se convierte de golpe en **movimiento** y lanza la bolita. Es la misma idea de un arco, un trampolín o un muelle.
 
-🚀 **Reto divergente:** Cambia el ángulo de lanzamiento. ¿Llega más lejos lanzando hacia arriba o casi recto? Mide y apunta los resultados.
+🚀 **Reto divergenio:** Cambia el ángulo de lanzamiento. ¿Llega más lejos lanzando hacia arriba o casi recto? Mide y apunta los resultados.
 
 🗣️ **Pregunta de oro:** "¿Dónde estaba guardada la energía antes de soltar?"
 
@@ -283,7 +283,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 12. 🛥️ El barco que avanza con jabón
 **Área:** Ingeniería + Física (propulsión) · **Tiempo:** 10 min · **Dificultad:** 🟢
 
-❓ **Pregunta divergente:** ¿Se puede mover un barco sin motor, sin viento y sin tocarlo?
+❓ **Pregunta divergenio:** ¿Se puede mover un barco sin motor, sin viento y sin tocarlo?
 
 🧰 **Necesitas:** una bandeja grande o el lavabo con agua, cartulina o una tapa de yogur, jabón lavavajillas, un palillo.
 
@@ -294,7 +294,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** El agua tiene una "piel" tensa (**tensión superficial**) que tira por igual de todos lados. El jabón rompe esa piel justo detrás del barco, así que el agua de delante tira más fuerte y **empuja el barco hacia adelante**.
 
-🚀 **Reto divergente:** Solo funciona una vez por agua limpia. ¿Por qué crees que deja de avanzar si repites sin cambiar el agua?
+🚀 **Reto divergenio:** Solo funciona una vez por agua limpia. ¿Por qué crees que deja de avanzar si repites sin cambiar el agua?
 
 🗣️ **Pregunta de oro:** "Nadie tocó el barco… entonces, ¿quién lo empujó?"
 
@@ -305,7 +305,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 13. 🫧 Lámpara de lava casera
 **Área:** Arte + Ciencia (densidad) · **Tiempo:** 15 min · **Dificultad:** 🟡
 
-❓ **Pregunta divergente:** ¿Por qué el aceite y el agua nunca se mezclan, por mucho que agites?
+❓ **Pregunta divergenio:** ¿Por qué el aceite y el agua nunca se mezclan, por mucho que agites?
 
 🧰 **Necesitas:** una botella o vaso alto, agua, aceite (mucho), colorante, pastillas efervescentes (tipo vitamina C), una linterna (opcional).
 
@@ -316,7 +316,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** El aceite es **menos denso** que el agua, por eso flota encima y no se mezclan. La pastilla suelta gas que arrastra gotas de agua coloreada hacia arriba; al llegar arriba el gas escapa y la gota, más pesada, vuelve a bajar. ¡Un ciclo de "lava" infinito!
 
-🚀 **Reto divergente:** ¿Sube más rápido la lava con agua caliente o fría? Diseña tu propio espectáculo de luz.
+🚀 **Reto divergenio:** ¿Sube más rápido la lava con agua caliente o fría? Diseña tu propio espectáculo de luz.
 
 🗣️ **Pregunta de oro:** "¿Por qué el colorante elige el agua y no el aceite?"
 
@@ -325,7 +325,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 14. 🦋 El mundo en espejo: simetría
 **Área:** Arte + Matemáticas (simetría) · **Tiempo:** 20 min · **Dificultad:** 🟢
 
-❓ **Pregunta divergente:** ¿Por qué una mariposa tiene las dos alas iguales? ¿Y tu cara?
+❓ **Pregunta divergenio:** ¿Por qué una mariposa tiene las dos alas iguales? ¿Y tu cara?
 
 🧰 **Necesitas:** papel, pintura o témpera, un espejito pequeño, rotuladores.
 
@@ -336,7 +336,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** La **simetría** es cuando una mitad es el reflejo exacto de la otra. Está por todas partes: mariposas, copos de nieve, caras, hojas. A los matemáticos y artistas les encanta porque nuestro cerebro la encuentra bella y equilibrada.
 
-🚀 **Reto divergente:** Busca 5 cosas simétricas en tu casa y 2 que NO lo sean. ¿Tu mano izquierda es simétrica a la derecha?
+🚀 **Reto divergenio:** Busca 5 cosas simétricas en tu casa y 2 que NO lo sean. ¿Tu mano izquierda es simétrica a la derecha?
 
 🗣️ **Pregunta de oro:** "Si doblas la figura por la mitad, ¿las dos partes encajan perfectas?"
 
@@ -347,7 +347,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 15. 🌻 Caza de patrones en la naturaleza
 **Área:** Matemáticas (secuencias y patrones) · **Tiempo:** 30 min (paseo) · **Dificultad:** 🟢
 
-❓ **Pregunta divergente:** ¿Sabías que las plantas "saben" matemáticas sin ir al cole?
+❓ **Pregunta divergenio:** ¿Sabías que las plantas "saben" matemáticas sin ir al cole?
 
 🧰 **Necesitas:** ojos curiosos, una flor (margarita, girasol), una piña o caracola, lápiz y papel.
 
@@ -358,7 +358,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** En la naturaleza se repiten unos números mágicos (la **secuencia de Fibonacci**: 1, 1, 2, 3, 5, 8, 13… cada uno es la suma de los dos anteriores). Las plantas los usan para crecer ordenadas y aprovechar mejor el sol y el espacio. ¡Las matemáticas estaban en el jardín antes que en el cuaderno!
 
-🚀 **Reto divergente:** Continúa la serie de Fibonacci hasta el 100. ¿Encuentras esos números en alguna flor de tu calle?
+🚀 **Reto divergenio:** Continúa la serie de Fibonacci hasta el 100. ¿Encuentras esos números en alguna flor de tu calle?
 
 🗣️ **Pregunta de oro:** "Si la planta no fue al cole… ¿quién le enseñó a contar así?"
 
@@ -367,7 +367,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 16. 🎲 El laboratorio de la suerte (probabilidad)
 **Área:** Matemáticas (probabilidad) · **Tiempo:** 20 min · **Dificultad:** 🟡
 
-❓ **Pregunta divergente:** Al tirar dos dados, ¿es igual de fácil sacar un 2 que un 7?
+❓ **Pregunta divergenio:** Al tirar dos dados, ¿es igual de fácil sacar un 2 que un 7?
 
 🧰 **Necesitas:** 2 dados, papel para anotar (usa la plantilla del cuaderno).
 
@@ -378,7 +378,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** El **7** sale más porque hay **más formas de conseguirlo** (1+6, 2+5, 3+4…), mientras que el 2 solo sale con 1+1. Esto es la **probabilidad**: algunos resultados son más probables porque tienen más "caminos" para ocurrir. Los científicos y hasta el tiempo del telediario se basan en esto.
 
-🚀 **Reto divergente:** Cuantas más tiradas hagas (¡100!), más se parece tu gráfica a una montaña. ¿Por qué crees que pasa?
+🚀 **Reto divergenio:** Cuantas más tiradas hagas (¡100!), más se parece tu gráfica a una montaña. ¿Por qué crees que pasa?
 
 🗣️ **Pregunta de oro:** "¿Por qué es más difícil sacar un 12 que un 7?"
 
@@ -387,7 +387,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 17. 🧩 Tangram: una figura, mil formas
 **Área:** Matemáticas (geometría) + Arte · **Tiempo:** 25 min · **Dificultad:** 🟡
 
-❓ **Pregunta divergente:** ¿Cuántas figuras distintas caben en un solo cuadrado?
+❓ **Pregunta divergenio:** ¿Cuántas figuras distintas caben en un solo cuadrado?
 
 🧰 **Necesitas:** la plantilla del tangram (incluida abajo), tijeras, cartulina.
 
@@ -398,7 +398,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** Las 7 piezas son figuras geométricas (**triángulos, un cuadrado y un romboide**). Con las mismas piezas puedes hacer infinitas figuras: eso es la **geometría** y la imaginación espacial. Las piezas pequeñas caben dentro de las grandes: estás viendo **fracciones** sin darte cuenta.
 
-🚀 **Reto divergente:** Forma una figura y dibuja solo su silueta exterior. ¿Puede otra persona resolver tu puzzle?
+🚀 **Reto divergenio:** Forma una figura y dibuja solo su silueta exterior. ¿Puede otra persona resolver tu puzzle?
 
 🗣️ **Pregunta de oro:** "¿Las piezas grandes son cuántas piezas pequeñas juntas?"
 
@@ -409,7 +409,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 18. 🌊 La torre de líquidos (densidad)
 **Área:** Física (densidad) · **Tiempo:** 20 min · **Dificultad:** 🟡 · 🌈
 
-❓ **Pregunta divergente:** ¿Se pueden apilar líquidos como si fueran pisos de un edificio?
+❓ **Pregunta divergenio:** ¿Se pueden apilar líquidos como si fueran pisos de un edificio?
 
 🧰 **Necesitas:** un vaso alto, miel, jabón lavavajillas, agua con colorante, aceite, alcohol con colorante (opcional, adulto), una cuchara.
 
@@ -420,7 +420,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** Cada líquido tiene una **densidad** distinta: cuánta "materia" cabe en el mismo espacio. Los más densos (miel) pesan más y se quedan abajo; los menos densos (aceite) flotan arriba. Un objeto se hunde hasta el piso del líquido que tenga su misma densidad.
 
-🚀 **Reto divergente:** Ordena de memoria 3 objetos pequeños por dónde crees que se pararán. ¿Acertaste?
+🚀 **Reto divergenio:** Ordena de memoria 3 objetos pequeños por dónde crees que se pararán. ¿Acertaste?
 
 🗣️ **Pregunta de oro:** "Si todos son líquidos, ¿por qué no se mezclan en uno solo?"
 
@@ -429,7 +429,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 19. ⚡ La magia de la electricidad estática
 **Área:** Física (cargas eléctricas) · **Tiempo:** 10 min · **Dificultad:** 🟢
 
-❓ **Pregunta divergente:** ¿Puedes mover cosas sin tocarlas, solo con un globo?
+❓ **Pregunta divergenio:** ¿Puedes mover cosas sin tocarlas, solo con un globo?
 
 🧰 **Necesitas:** un globo inflado, tu pelo (o un jersey de lana), trocitos de papel pequeños, un chorrito fino de agua del grifo.
 
@@ -440,7 +440,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** Al frotar, el globo roba unas partículas diminutas con carga (**electrones**) de tu pelo y queda **cargado**. Las cargas atraen a las cosas sin carga, como el papel o el agua. Es la misma "chispa" que sientes a veces al tocar un pomo: **electricidad estática**.
 
-🚀 **Reto divergente:** ¿Funciona igual un día húmedo de lluvia que uno seco? Prueba y descubre por qué el agua del aire "estropea" el truco.
+🚀 **Reto divergenio:** ¿Funciona igual un día húmedo de lluvia que uno seco? Prueba y descubre por qué el agua del aire "estropea" el truco.
 
 🗣️ **Pregunta de oro:** "El globo no tiene pegamento… ¿por qué se pega el papel?"
 
@@ -449,7 +449,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 ### 20. 🧭 Tu propia brújula
 **Área:** Física (magnetismo) · **Tiempo:** 15 min · **Dificultad:** 🔴 (aguja: cuidado) · ⚠️
 
-❓ **Pregunta divergente:** ¿Cómo encontraban el norte los exploradores sin móvil ni GPS?
+❓ **Pregunta divergenio:** ¿Cómo encontraban el norte los exploradores sin móvil ni GPS?
 
 🧰 **Necesitas:** una aguja, un imán, un trocito de corcho o papel, un plato con agua. (El adulto maneja la aguja.)
 
@@ -460,7 +460,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 🤯 **¿Qué pasó?** La Tierra es como un **imán gigante** con polos Norte y Sur. Tu aguja imantada se gira hasta alinearse con ese campo magnético, igual que una brújula de verdad. Por eso los marineros podían cruzar océanos sin perderse.
 
-🚀 **Reto divergente:** Comprueba con el sol (sale por el Este) si tu brújula apunta bien. ¿Cómo orientarías un mapa con ella?
+🚀 **Reto divergenio:** Comprueba con el sol (sale por el Este) si tu brújula apunta bien. ¿Cómo orientarías un mapa con ella?
 
 🗣️ **Pregunta de oro:** "Si la aguja siempre apunta al mismo sitio… ¿quién la está 'llamando'?"
 
@@ -472,7 +472,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 ```
 ┌───────────────────────────────────────────────────────────┐
-│  🔬 MI CUADERNO DEL CIENTÍFICO DIVERGENTE                   │
+│  🔬 MI CUADERNO DEL CIENTÍFICO DIVERGENIO                   │
 │                                                             │
 │  Nombre del científico/a: ______________________________   │
 │  Experimento nº: ____   Fecha: ____ / ____ / ________       │
@@ -528,7 +528,7 @@ todo, hazte preguntas. La ciencia empieza con un "¿y si…?".
 
 ---
 
-# 🏅 Diploma de Científico Divergente (imprimible)
+# 🏅 Diploma de Científico Divergenio (imprimible)
 
 ```
 ╔══════════════════════════════════════════════════════════╗
